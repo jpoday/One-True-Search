@@ -1,0 +1,2 @@
+require './search'
+run Search
