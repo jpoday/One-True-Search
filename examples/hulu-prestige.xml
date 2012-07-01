@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+  <show-name-set type="array"/>
+  <count type="integer">3000</count>
+  <result-set-id type="integer">-1</result-set-id>
+  <missed-show-set type="array"/>
+  <videos type="array">
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime">2009-11-19T00:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>Carsey Werner</channel>
+      <channels>Comedy~Sitcoms</channels>
+      <collation-title>breakingwithtradition</collation-title>
+      <company-id type="integer">452</company-id>
+      <content-id>40055877</content-id>
+      <content-rating>TV-PG</content-rating>
+      <content-rating-reason/>
+      <copyright>2011 The Carsey-Werner Company, LLC. All Rights Reserved</copyright>
+      <cp-identifier>Carsey Werner</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Denise wants to attend Princeton like her older sister, Sondra.</description>
+      <duration type="decimal">1311.44</duration>
+      <eid>y2zPOW0X_T7tdX6_VUQmGg</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">6</episode-number>
+      <expires-at type="datetime">2009-11-19T00:00:00Z</expires-at>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-03-28T14:21:06Z</feed-last-modified-at>
+      <first-available-at type="datetime">2011-11-17T23:34:21Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description>Denise wants to attend Princeton like her older sister, Sondra.  But Grandpa Russell wants her to attend Hillman, to uphold a family tradition.  Cliff explains to his father the prestige of attending a highly regarded school like Princeton, until the elder Huxtable points out that Hillman produced a highly regarded doctor... Cliff.</full-description>
+      <game-season type="integer"/>
+      <has-captions type="boolean">true</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">true</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">301669</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Bill Cosby, Phylicia Rashad, Malcolm-Jamal Warner, Keshia Knight Pulliam, Tempest Bledsoe, Lisa Bonet, Sabrina Le Beauf, Denise, Princeton, older sister, Sondra, Grandpa Russell, Hillman, family tradition, Cliff, prestige, doctor</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Wed May 02 01:15:35 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">1984-10-25T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_40055877</pid>
+      <plus-first-available-at type="datetime">2011-11-17T23:34:21Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime">2009-11-19T00:00:00Z</plus-living-room-available-at>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime">2009-11-19T00:00:00Z</plus-mobile-available-at>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime">2009-11-19T00:00:00Z</plus-web-available-at>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">119</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.44444</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2011-11-17T23:34:21Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">8431</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/877/40055877/40055877_145x80_generated.jpg</thumbnail-url>
+      <title>Breaking With Tradition</title>
+      <tms-program-id>EP000170730006</tms-program-id>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">26</votes-count>
+      <score type="float">1.7429259</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.44444</user-star-rating>
+      <canonical-name>the-cosby-show-breaking-with-tradition</canonical-name>
+      <valid-available-at type="datetime">1970-01-01T00:00:00Z</valid-available-at>
+      <valid-expires-at type="datetime">1970-01-02T00:00:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">true</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>the-cosby-show</canonical-name>
+        <category-order/>
+        <clips-count type="integer">0</clips-count>
+        <collation-name>cosbyshow</collation-name>
+        <collation-title>cosbyshow</collation-title>
+        <company-id type="integer">452</company-id>
+        <content-age-group>Library</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Bill Cosby brings his special comic genius to the role of Cliff Huxtable, a warm family man, who along with his lovely wife Clair, handles his family of five kids with a combination of warmth, humanity and humor. Cliff and Clair’s love for the kids is matched only by their wisdom in dealing with the youngsters’ clever schemes to achieve adolescent independence.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">1992-04-30T00:00:00Z</end-date>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre/>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <id type="integer">8431</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Wed May 02 02:54:38 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>The Cosby Show</name>
+        <original-premiere-date type="datetime">1984-09-20T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">8</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">201</plus-web-videos-count>
+        <positive-votes-count type="integer">10291</positive-votes-count>
+        <released-at type="datetime">2011-11-03T17:59:18Z</released-at>
+        <reviews-count type="integer">1</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">50005413</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">0</videos-count>
+        <votes-count type="integer">2537</votes-count>
+        <user-star-rating type="float">4.36258382948523</user-star-rating>
+        <channels/>
+        <channels-with-plus>Comedy~Sitcoms</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000197</channel-id>
+        <collation-name>carseywerner</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">452</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>Carsey Werner</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Carsey Werner</display-name>
+        <short-display-name>Carsey Werner</short-display-name>
+        <uber-company-id type="integer">452</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime"/>
+      <backup-pid/>
+      <categories/>
+      <channel>iCue.com</channel>
+      <channels>News and Information</channels>
+      <collation-title>reporterlooksback50yearscoveringthespaceprogramfromsputnikon</collation-title>
+      <company-id type="integer">169</company-id>
+      <content-id>19052202</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>NBC News</copyright>
+      <cp-identifier>iCue</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Veteran NBC Space correspondent Jay Barbree discusses his book, "Live From Cape Canaveral," charting his 50 years of covering space exploration, beginning with Sputnik in 1957.</description>
+      <duration type="decimal">334.97</duration>
+      <eid>_6BInMfgXxFmFv29NkyAfQ</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id>S02010102V</external-id>
+      <feed-last-modified-at type="datetime">2012-04-03T08:08:23Z</feed-last-modified-at>
+      <first-available-at type="datetime">1970-01-01T00:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">83351</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Jay Barbree, Mercury Seven, Astronauts, Space, Race, Exploration, Sputnik, Soviet Union, USSR, Russians, John Glenn, Alan Shepard, President, John F. Kennedy, JFK, Man on the Moon, Program, Space, Apollo, Space Shuttle, Challenger Disaster, Christa McAuliffe, O-Rings, Columbia Disaster, Tragedy, Arrogrance, Rockets, Ares, Escape, Astronauts, Moon, Mars, Spacecraft, Space Cargo, Thrust, Force, Warhead, Competition, Prestige, Arrogance, Technology, Computers, MSNBC, Cape Canaveral</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Wed May 02 04:31:09 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">1970-01-01T00:00:00Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2007-09-03T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_19052202</pid>
+      <plus-first-available-at type="datetime">1970-01-01T00:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">43</positive-votes-count>
+      <programming-priority type="integer">-1</programming-priority>
+      <programming-type>Excerpt</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">3.90909</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2009-07-16T21:00:13Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">2312</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/19/174/96184_145x80_generated__wmGpCRKiKUuz1oijWzd8zw.jpg</thumbnail-url>
+      <title>A Reporter Looks Back 50 Years: Covering the Space Program from Sputnik On</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">11</votes-count>
+      <score type="float">1.5448372</score>
+      <embed-codes/>
+      <user-star-rating type="float">3.90909</user-star-rating>
+      <canonical-name>the-eagle-has-landed-a-reporter-looks-back-50-years-covering-the-space-program-from-sputnik-on</canonical-name>
+      <valid-available-at/>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>the-eagle-has-landed</canonical-name>
+        <category-order/>
+        <clips-count type="integer">17</clips-count>
+        <collation-name>eaglehaslanded</collation-name>
+        <collation-title>eaglehaslanded</collation-title>
+        <company-id type="integer">169</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Where were you when the Eagle landed on July 20, 1969?  On this 40th anniversary of the first landing on the moon, iCue looks back at the space race, the Apollo 11 mission, and the impact of that historic moonwalk, then and now.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">1976-12-31T00:00:00Z</end-date>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>News and Information</genre>
+        <genres>News and Information</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">2312</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:48 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>The Eagle Has Landed</name>
+        <original-premiere-date type="datetime">1976-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">177</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">3</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">12028</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">17</videos-count>
+        <votes-count type="integer">43</votes-count>
+        <user-star-rating type="float">4.40729042725798</user-star-rating>
+        <channels>News and Information</channels>
+        <channels-with-plus>News and Information</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">206</channel-id>
+        <collation-name>iCue.com</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">169</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>iCue.com</name>
+        <short-name>iCue.com</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>iCue.com</display-name>
+        <short-display-name>iCue.com</short-display-name>
+        <uber-company-id type="integer">169</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean">true</allow-progressive-download>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2010-07-15T08:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>Starz</channel>
+      <channels>Arts and Culture|News and Information</channels>
+      <collation-title>inception</collation-title>
+      <company-id type="integer">268</company-id>
+      <content-id>50070620</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright/>
+      <cp-identifier>Starz</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Richard Roeper reviews Christopher Nolan's Inception.</description>
+      <duration type="decimal">159.95</duration>
+      <eid>5i6X3jy5gRld08ajQERD4w</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">63</episode-number>
+      <expires-at type="datetime"/>
+      <external-id>ROEPER_SH_INCEPTION</external-id>
+      <feed-last-modified-at type="datetime">2012-04-01T02:54:20Z</feed-last-modified-at>
+      <first-available-at type="datetime">2010-07-15T13:12:08Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">164149</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>richard roeper, richard roeper and the movies, reviews, movies, theater, cinema, now playing, summer blockbuster, inception, leonardo dicaprio, ellen page, michael caine, joseph gordon levitt, christopher nolan, the dark knight, joker, heath ledger, christian bale, memento, the prestige, following, insomnia</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Tue May 01 04:27:45 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2010-07-15T13:45:11Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>Web Original</media-type>
+      <original-premiere-date type="datetime">2010-07-13T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50070620</pid>
+      <plus-first-available-at type="datetime">2010-07-15T13:12:08Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">210</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Web Exclusive</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.16611</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2010-07-15T13:12:08Z</released-at>
+      <reviews-count type="integer">2</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">3882</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/620/50070620/184785_145x80_generated.jpg</thumbnail-url>
+      <title>Inception</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">47</votes-count>
+      <score type="float">1.4566001</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.16611</user-star-rating>
+      <canonical-name>richard-roeper-and-the-movies-inception</canonical-name>
+      <valid-available-at type="datetime">2010-07-15T08:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>richard-roeper-and-the-movies</canonical-name>
+        <category-order/>
+        <clips-count type="integer">89</clips-count>
+        <collation-name>richardroeperandthemovies</collation-name>
+        <collation-title>richardroeperandthemovies</collation-title>
+        <company-id type="integer">268</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Film critic Richard Roeper reviews the latest films.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Talk and Interview</genre>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">3882</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:48 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Richard Roeper &amp; The Movies</name>
+        <original-premiere-date type="datetime">2009-12-03T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">1208</positive-votes-count>
+        <released-at type="datetime">2010-02-04T00:18:58Z</released-at>
+        <reviews-count type="integer">1</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">50000698</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">89</videos-count>
+        <votes-count type="integer">391</votes-count>
+        <user-star-rating type="float">3.56171191972842</user-star-rating>
+        <channels>Arts and Culture|News and Information</channels>
+        <channels-with-plus>Arts and Culture|News and Information</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">277</channel-id>
+        <collation-name>Starz</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">268</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>Starz</name>
+        <short-name>Starz</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Starz</display-name>
+        <short-display-name>Starz</short-display-name>
+        <uber-company-id type="integer">268</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime"/>
+      <backup-pid/>
+      <categories>Inside Line</categories>
+      <channel>Edmunds</channel>
+      <channels>Automotive</channels>
+      <collation-title>2010audia1at2010genevaautoshow</collation-title>
+      <company-id type="integer">189</company-id>
+      <content-id>50039029</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>2010 Edmunds Inc.</copyright>
+      <cp-identifier>Edmunds</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>With a world premiere at the 2010 Geneva Auto Show, Audi is hoping the A1 will connect buyers to the prestige of high-end models.</description>
+      <duration type="decimal">45.24</duration>
+      <eid>aSWNu46ZyMvMA-HJtM3_Uw</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-04-11T21:32:01Z</feed-last-modified-at>
+      <first-available-at type="datetime">2010-03-06T23:53:07Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description>With a world premiere at the 2010 Geneva Auto Show, Audi is hoping the A1 will connect buyers to the prestige of high-end models.Set for European sale in June, the stylish three-door hatchback is the first in a whole new range of A1 models planned to join the Audi lineup within the next three years. The company has set the A1 to compete with the Alfa Romeo MiTo, Citroën DS3, Fiat 500, Mercedes-Benz A-Class and Mini in Europe's quickly expanding class of premium small cars.Don't expect to see the A1 on U.S. roads any time soon, though. Despite concerted efforts by Audi to increase its sales performance in North America, the A1 does not form part of its future model lineup for the U.S. A high-ranking source at Audi told us, "We'll monitor response to the car, but it is very unlikely that the A1 will be sold in the U.S., at least during its first generation. Beyond that, it is hard to say what will happen."</full-description>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">true</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">132836</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>2010,GAS,Auto Show,Audi,A1,Car,Auto,Motoring,Driving,Automotive,Inside,Line,Edmunds</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Tue May 01 10:55:09 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2010-03-07T00:15:09Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>Web Original</media-type>
+      <original-premiere-date type="datetime">2010-03-02T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50039029</pid>
+      <plus-first-available-at type="datetime">2010-03-06T23:53:07Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">17</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Web Exclusive</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2010-03-06T23:53:07Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">1785</show-id>
+      <studio>Edmunds Inc.</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/29/50039029/150716_145x80_generated.jpg</thumbnail-url>
+      <title>2010 Audi A1 at 2010 Geneva Auto Show</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">4</votes-count>
+      <score type="float">1.3962675</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>edmunds-inside-line-2010-audi-a1-at-2010-geneva-auto-show</canonical-name>
+      <valid-available-at/>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>edmunds-inside-line</canonical-name>
+        <category-order/>
+        <clips-count type="integer">486</clips-count>
+        <collation-name>edmundsinsideline</collation-name>
+        <collation-title>edmundsinsideline</collation-title>
+        <company-id type="integer">189</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Get the inside line on automotive information such as road tests, future vehicles, auto show coverage, and more.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">2009-12-31T00:00:00Z</end-date>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Sports and Fitness</genre>
+        <genres>Sports and Fitness</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <id type="integer">1785</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:48 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Edmunds' Inside Line</name>
+        <original-premiere-date type="datetime">2009-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">2535</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">1</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">11237</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">486</videos-count>
+        <votes-count type="integer">1250</votes-count>
+        <user-star-rating type="float">2.51017728</user-star-rating>
+        <channels>Automotive</channels>
+        <channels-with-plus>Automotive</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">238</channel-id>
+        <collation-name>Edmunds</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">189</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>Edmunds</name>
+        <short-name>Edmunds</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Edmunds</display-name>
+        <short-display-name>Edmunds</short-display-name>
+        <uber-company-id type="integer">189</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2009-10-07T00:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>L Studio</channel>
+      <channels>Drama|Comedy</channels>
+      <collation-title>interview</collation-title>
+      <company-id type="integer">228</company-id>
+      <content-id>50004868</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright/>
+      <cp-identifier>Intelligent Life Productions</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Nick interviews for his dream job. But it's a nightmare.</description>
+      <duration type="decimal">306.14</duration>
+      <eid>rUHEOtlOhakfL_nWxsN1Sg</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time/>
+      <episode-number type="integer">1</episode-number>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-04-01T02:20:25Z</feed-last-modified-at>
+      <first-available-at type="datetime">2009-10-07T00:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>24</frame-rate>
+      <full-description>In the first episode of Bitter Lawyer, Nick interviews for his dream job-- but it's a nightmare.</full-description>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">98649</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>attorney, suit, office, living the dream, job, offer, work, workplace, career, prestige, vocation, awkward, humor, drink, drunk, bar, loyola, harvard, application, apply</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Wed May 02 04:34:57 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2009-10-07T00:00:00Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>Web Original</media-type>
+      <original-premiere-date type="datetime">2009-09-01T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50004868</pid>
+      <plus-first-available-at type="datetime">2009-10-07T00:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">280</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">3.02721</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2009-09-28T19:08:09Z</released-at>
+      <reviews-count type="integer">1</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">3010</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/868/50004868/112074_145x80_generated.jpg</thumbnail-url>
+      <title>The Interview</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">88</votes-count>
+      <score type="float">1.3391006</score>
+      <embed-codes/>
+      <user-star-rating type="float">3.02721</user-star-rating>
+      <canonical-name>bitter-lawyer-the-interview</canonical-name>
+      <valid-available-at type="datetime">2009-10-07T00:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>bitter-lawyer</canonical-name>
+        <category-order/>
+        <clips-count type="integer">0</clips-count>
+        <collation-name>bitterlawyer</collation-name>
+        <collation-title>bitterlawyer</collation-title>
+        <company-id type="integer">228</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Nick Conley is a first-year associate at the prestigious law firm of Sullivan &amp; Moore who just can’t seem to figure it out. Starring John T. Woods, Edward Kerr, Spencer Garrett, Michael B. Silver, Kevin Ruff and Jason Thompson.  Written and directed by Rick Eid .</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">10</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Comedy</genre>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">3010</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:48 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Bitter Lawyer</name>
+        <original-premiere-date type="datetime">2009-09-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">1</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">10</plus-web-videos-count>
+        <positive-votes-count type="integer">353</positive-votes-count>
+        <released-at type="datetime">2009-09-25T00:44:30Z</released-at>
+        <reviews-count type="integer">2</reviews-count>
+        <seasons-count type="integer">1</seasons-count>
+        <series-id type="integer">50000062</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">10</videos-count>
+        <votes-count type="integer">132</votes-count>
+        <user-star-rating type="float">3.17181359044995</user-star-rating>
+        <channels>Comedy|Drama</channels>
+        <channels-with-plus>Comedy|Drama</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">275</channel-id>
+        <collation-name>L Studio</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">228</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>L Studio</name>
+        <short-name>L Studio</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>L Studio</display-name>
+        <short-display-name>L Studio</short-display-name>
+        <uber-company-id type="integer">228</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime"/>
+      <backup-pid/>
+      <categories/>
+      <channel>WatchMojo.com</channel>
+      <channels>Talk and Interview~Celebrity and Gossip|Web</channels>
+      <collation-title>christophernolanthevisionarybehindthedarkknightandinception</collation-title>
+      <company-id type="integer">62</company-id>
+      <content-id>50069648</content-id>
+      <content-rating>G</content-rating>
+      <content-rating-reason/>
+      <copyright>WatchMojo.com</copyright>
+      <cp-identifier>WatchMojo</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>WatchMojo.com takes a look at the career of the visionary director Christopher Nolan.</description>
+      <duration type="decimal">205.64</duration>
+      <eid>WNh8dwRST33Vpx5-fNUKmA</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-04-11T21:32:11Z</feed-last-modified-at>
+      <first-available-at type="datetime">2010-07-09T11:35:09Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description>In this video WatchMojo.com takes a look at the career of the visionary director Christopher Nolan.</full-description>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">163078</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Christopher Nolan, Chris Nolan, Director, Filmmaker, Non-Chronological, Inception, The Dark Knight, Batman Begins, The Prestige, Memento, Following, Insomnia, Doodlebug, Superman, The Man of Steel</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Tue May 01 21:23:39 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2010-07-09T12:15:06Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>Web Original</media-type>
+      <original-premiere-date type="datetime">2010-07-03T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50069648</pid>
+      <plus-first-available-at type="datetime">2010-07-09T11:35:09Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">25</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Web Exclusive</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2010-07-09T11:35:09Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">495</show-id>
+      <studio>WatchMojo.com</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/648/50069648/183528_145x80_generated.jpg</thumbnail-url>
+      <title>Christopher Nolan, the Visionary Behind the Dark Knight and Inception</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">6</votes-count>
+      <score type="float">1.2662419</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>flickmojo-christopher-nolan-the-visionary-behind-the-dark-knight-and-inception</canonical-name>
+      <valid-available-at/>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>flickmojo</canonical-name>
+        <category-order/>
+        <clips-count type="integer">270</clips-count>
+        <collation-name>flickmojo</collation-name>
+        <collation-title>flickmojo</collation-title>
+        <company-id type="integer">62</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Profiles, retrospectives and lists on all your favorite movies, movie stars and directors.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Celebrity and Gossip</genre>
+        <genres>Celebrity and Gossip, Talk and Interview</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <id type="integer">495</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:47 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>FlickMojo</name>
+        <original-premiere-date type="datetime">2008-05-10T07:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">576</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">1</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">3346</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">270</videos-count>
+        <votes-count type="integer">238</votes-count>
+        <user-star-rating type="float">2.91965821622767</user-star-rating>
+        <channels>Talk and Interview~Celebrity and Gossip|Web</channels>
+        <channels-with-plus>Talk and Interview~Celebrity and Gossip|Web</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">98</channel-id>
+        <collation-name>WatchMojo.com</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">62</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>WatchMojo.com</name>
+        <short-name>WatchMojo.com</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>WatchMojo.com</display-name>
+        <short-display-name>WatchMojo.com</short-display-name>
+        <uber-company-id type="integer">62</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime">2009-12-22T00:00:00Z</available-at>
+      <backup-pid/>
+      <categories>Specials</categories>
+      <channel>G4</channel>
+      <channels>Videogames~Reviews|Comedy</channels>
+      <collation-title>topnewsstoriesof2009</collation-title>
+      <company-id type="integer">39</company-id>
+      <content-id>50023592</content-id>
+      <content-rating>TV-14</content-rating>
+      <content-rating-reason/>
+      <copyright>2009 G4 Media Inc.</copyright>
+      <cp-identifier>G4TV.com</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Adam Sessler breaks down the top news stories in the gaming world from 2009, including 'Modern Warfare 2,' the console price drops, and the movement toward movement in gaming.</description>
+      <duration type="decimal">192.62</duration>
+      <eid>dYZG4--jKIFOC8HSi3OU0Q</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id>43313</external-id>
+      <feed-last-modified-at type="datetime">2012-04-01T02:28:24Z</feed-last-modified-at>
+      <first-available-at type="datetime">2009-12-23T09:31:05Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">117233</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Adam Sessler,Features,XPlayFeature,Videogames,Call of Duty: Modern Warfare 2,PlayStation 3,Wii,Project Natal,Shooter,Xbox 360,PC,Call of Duty: Modern Warfare 2 (Hardened Edition) ,Call of Duty: Modern Warfare 2 (Prestige Edition) ,X-Play</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sun Apr 29 04:23:50 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2009-12-23T09:45:28Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2009-12-21T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50023592</pid>
+      <plus-first-available-at type="datetime">2009-12-23T09:31:05Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">65</positive-votes-count>
+      <programming-priority type="integer">2</programming-priority>
+      <programming-type>Excerpt</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.33333</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2009-12-23T09:31:05Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">241</show-id>
+      <studio>G4</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/592/50023592/134342_145x80_generated.jpg</thumbnail-url>
+      <title>The Top News Stories of 2009</title>
+      <tms-program-id/>
+      <tms-series-id>SH005728180000</tms-series-id>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">15</votes-count>
+      <score type="float">1.2549795</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.33333</user-star-rating>
+      <canonical-name>x-play-the-top-news-stories-of-2009</canonical-name>
+      <valid-available-at type="datetime">2009-12-22T00:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>x-play</canonical-name>
+        <category-order/>
+        <clips-count type="integer">593</clips-count>
+        <collation-name>xplay</collation-name>
+        <collation-title>xplay</collation-title>
+        <company-id type="integer">39</company-id>
+        <content-age-group>Library</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>The Best Videogame Review Show on Television</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">2012-04-26T00:00:00Z</end-date>
+        <episodes-count type="integer">4</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Gaming</genre>
+        <genres>Animation, Comedy, Gaming, News and Information</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">241</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:47 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>X-Play</name>
+        <original-premiere-date type="datetime">1978-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">1</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">4</plus-web-videos-count>
+        <positive-votes-count type="integer">30360</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">23</reviews-count>
+        <seasons-count type="integer">1</seasons-count>
+        <series-id type="integer">95</series-id>
+        <tms-series-id>SH005728180000</tms-series-id>
+        <videos-count type="integer">597</videos-count>
+        <votes-count type="integer">10041</votes-count>
+        <user-star-rating type="float">3.50167039964351</user-star-rating>
+        <channels>Comedy|Videogames~Reviews</channels>
+        <channels-with-plus>Comedy|Videogames~Reviews</channels-with-plus>
+      </show>
+      <company>
+        <background-color>#010101</background-color>
+        <channel-id type="integer">18</channel-id>
+        <collation-name>G4</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">39</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>G4</name>
+        <short-name>G4</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>G4</display-name>
+        <short-display-name>G4</short-display-name>
+        <uber-company-id type="integer">39</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime">2009-12-15T00:00:00Z</available-at>
+      <backup-pid/>
+      <categories>Specials</categories>
+      <channel>G4</channel>
+      <channels>Videogames~Reviews|Comedy</channels>
+      <collation-title>bestof2009gameoftheyear</collation-title>
+      <company-id type="integer">39</company-id>
+      <content-id>50022018</content-id>
+      <content-rating>TV-14</content-rating>
+      <content-rating-reason/>
+      <copyright>2009 G4 Media Inc.</copyright>
+      <cp-identifier>G4TV.com</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>X-Play presents the Best of 2009 Award for Game of the Year. The nominees are Assassin's Creed II, Borderlands, inFamous, Call of Duty: Modern Warfare 2 and Uncharted 2: Among Thieves. Watch to find out the winner!</description>
+      <duration type="decimal">192.86</duration>
+      <eid>K-PrnmZFmFGnIBcA5fhnFg</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id>43252</external-id>
+      <feed-last-modified-at type="datetime">2012-04-01T02:27:53Z</feed-last-modified-at>
+      <first-available-at type="datetime">2009-12-17T01:42:22Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">115702</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Videogames,Featured,Morgan Webb,Adam Sessler,Assassin's Creed II,PC,Xbox 360,Action,Adventure,PlayStation 3,Borderlands,RPG,Shooter,Infamous,Call of Duty: Modern Warfare 2,Call of Duty: Modern Warfare 2 (Hardened Edition) ,Call of Duty: Modern Warfare 2 (Prestige Edition) ,Uncharted 2: Among Thieves,X-Play</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sat Apr 21 04:12:26 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2009-12-17T02:17:06Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2009-12-15T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50022018</pid>
+      <plus-first-available-at type="datetime">2009-12-17T01:42:22Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">80</positive-votes-count>
+      <programming-priority type="integer">2</programming-priority>
+      <programming-type>Excerpt</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2009-12-17T01:42:22Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">241</show-id>
+      <studio>G4</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/18/50022018/133024_145x80_generated.jpg</thumbnail-url>
+      <title>Best of 2009: Game of the Year</title>
+      <tms-program-id/>
+      <tms-series-id>SH005728180000</tms-series-id>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">20</votes-count>
+      <score type="float">1.2549795</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.0</user-star-rating>
+      <canonical-name>x-play-best-of-2009-game-of-the-year</canonical-name>
+      <valid-available-at type="datetime">2009-12-15T00:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>x-play</canonical-name>
+        <category-order/>
+        <clips-count type="integer">593</clips-count>
+        <collation-name>xplay</collation-name>
+        <collation-title>xplay</collation-title>
+        <company-id type="integer">39</company-id>
+        <content-age-group>Library</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>The Best Videogame Review Show on Television</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">2012-04-26T00:00:00Z</end-date>
+        <episodes-count type="integer">4</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Gaming</genre>
+        <genres>Animation, Comedy, Gaming, News and Information</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">241</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:47 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>X-Play</name>
+        <original-premiere-date type="datetime">1978-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">1</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">4</plus-web-videos-count>
+        <positive-votes-count type="integer">30360</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">23</reviews-count>
+        <seasons-count type="integer">1</seasons-count>
+        <series-id type="integer">95</series-id>
+        <tms-series-id>SH005728180000</tms-series-id>
+        <videos-count type="integer">597</videos-count>
+        <votes-count type="integer">10041</votes-count>
+        <user-star-rating type="float">3.50167039964351</user-star-rating>
+        <channels>Comedy|Videogames~Reviews</channels>
+        <channels-with-plus>Comedy|Videogames~Reviews</channels-with-plus>
+      </show>
+      <company>
+        <background-color>#010101</background-color>
+        <channel-id type="integer">18</channel-id>
+        <collation-name>G4</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">39</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>G4</name>
+        <short-name>G4</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>G4</display-name>
+        <short-display-name>G4</short-display-name>
+        <uber-company-id type="integer">39</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime"/>
+      <backup-pid/>
+      <categories>Daily Fix</categories>
+      <channel>IGN</channel>
+      <channels>Videogames~Reviews|Web</channels>
+      <collation-title>blackopsspecialeditionandgiveaway</collation-title>
+      <company-id type="integer">7</company-id>
+      <content-id>50074747</content-id>
+      <content-rating>TV-PG</content-rating>
+      <content-rating-reason>D</content-rating-reason>
+      <copyright/>
+      <cp-identifier>IGN</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Rumored special Hardened and Prestige editions of Call of Duty: Black Ops, top talent on Force Unleashed II leaves LucasArts, ModNation Racers gets a patch update, and we offer up our weekend StarCraft II giveaway challenge.</description>
+      <duration type="decimal">109.48</duration>
+      <eid>J35tNG6nomD9ByNyS2R-7Q</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id>1914249</external-id>
+      <feed-last-modified-at type="datetime">2012-04-11T21:32:12Z</feed-last-modified-at>
+      <first-available-at type="datetime">2010-07-31T09:00:10Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">167997</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>call, of, duty, black, ops, prestige, edition, daily, fix, lucasarts, procucer, modnation, racers, friday, giveaway, ign, videogames, xbox360, ps3, jessica, chobot, hd</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sun Apr 29 04:36:17 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2010-07-31T09:23:18Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>Web Original</media-type>
+      <original-premiere-date type="datetime">2010-07-30T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50074747</pid>
+      <plus-first-available-at type="datetime">2010-07-31T09:00:10Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">14</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Web Exclusive</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2010-07-31T09:00:10Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">2117</show-id>
+      <studio>Marcus Fenix Action Extreme IGN DLC Online</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/747/50074747/188923_145x80_generated.jpg</thumbnail-url>
+      <title>Black Ops Special Edition and Giveaway</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">4</votes-count>
+      <score type="float">1.1794786</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>ign-black-ops-special-edition-and-giveaway</canonical-name>
+      <valid-available-at/>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>ign</canonical-name>
+        <category-order/>
+        <clips-count type="integer">2842</clips-count>
+        <collation-name>ign</collation-name>
+        <collation-title>ign</collation-title>
+        <company-id type="integer">7</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>As the leading source for gaming news on the net, IGN.com brings you the inside scoop on what's hot in the world of videogames and entertainment. Tune in, turn on, game out!</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">2001-12-31T00:00:00Z</end-date>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Gaming</genre>
+        <genres>Comedy, Drama, Gaming</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">2117</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:48 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>IGN</name>
+        <original-premiere-date type="datetime">2001-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">14030</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">0</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">11743</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">2842</videos-count>
+        <votes-count type="integer">5643</votes-count>
+        <user-star-rating type="float">2.98625108103083</user-star-rating>
+        <channels>Videogames~Reviews|Web</channels>
+        <channels-with-plus>Videogames~Reviews|Web</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">20</channel-id>
+        <collation-name>IGN</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">7</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>IGN</name>
+        <short-name>IGN</short-name>
+        <text-color/>
+        <website-url>http://www.ign.com/</website-url>
+        <display-name>IGN</display-name>
+        <short-display-name>IGN</short-display-name>
+        <uber-company-id type="integer">7</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime">2012-02-01T08:00:00Z</available-at>
+      <backup-pid/>
+      <categories>Historical Figures</categories>
+      <channel>bio.</channel>
+      <channels>News and Information~Documentary and Biography</channels>
+      <collation-title>imeldamarcossteelbutterfuly</collation-title>
+      <company-id type="integer">186</company-id>
+      <content-id>50012749</content-id>
+      <content-rating>TV-PG</content-rating>
+      <content-rating-reason/>
+      <copyright>2009 A&amp;E Television Networks</copyright>
+      <cp-identifier>A&amp;E</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Portrait of the colorful and controversial former First Lady of the Philippines, who went on buying sprees that included New York City skyscrapers and 3,000 pairs of shoes.</description>
+      <duration type="decimal">2608.64</duration>
+      <eid>CCCenACKRC3yq7qMukFP2g</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:42:56;00</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime">2012-12-31T04:59:00Z</expires-at>
+      <external-id>182509</external-id>
+      <feed-last-modified-at type="datetime">2012-04-01T02:23:18Z</feed-last-modified-at>
+      <first-available-at type="datetime">2009-11-16T00:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">106375</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Imelda Marcos,Steel Butterfuly,0,First Lady, Philippines, LBJ, lyndon johnson, imelda marcos, power, prestige, president, occupied, territory, independence, international relations</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Wed May 02 04:37:05 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2009-11-16T00:00:00Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2001-10-24T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50012749</pid>
+      <plus-first-available-at type="datetime">2012-02-01T08:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">538</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Special</programming-type>
+      <promotional-link>http://www.amazon.com/dp/B000E373RG/?tag=hulu-20</promotional-link>
+      <promotional-text>Buy this episode today</promotional-text>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">3.28571</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2009-11-03T22:57:09Z</released-at>
+      <reviews-count type="integer">3</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">2108</show-id>
+      <studio>A&amp;E</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/749/50012749/122162_145x80_generated.jpg</thumbnail-url>
+      <title>Imelda Marcos: Steel Butterfuly</title>
+      <tms-program-id>EP000168271189</tms-program-id>
+      <tms-series-id>SH000168270000</tms-series-id>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">146</votes-count>
+      <score type="float">1.1075075</score>
+      <embed-codes/>
+      <user-star-rating type="float">3.28571</user-star-rating>
+      <canonical-name>biography-imelda-marcos-steel-butterfuly</canonical-name>
+      <valid-available-at type="datetime">2012-02-01T08:00:00Z</valid-available-at>
+      <valid-expires-at type="datetime">2012-12-31T04:59:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>biography</canonical-name>
+        <category-order/>
+        <clips-count type="integer">122</clips-count>
+        <collation-name>biography</collation-name>
+        <collation-title>biography</collation-title>
+        <company-id type="integer">186</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Get to know some of the most fascinating people of all time with BIOGRAPHY®. From actors to activists, from scientists to Supreme Court justices, each episode examines its topic in depth. Commentary by those close to the subject—friends, family members, associates, historians, or other experts—help create a vivid, historically accurate portrait.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Documentary and Biography</genre>
+        <genres>Documentary and Biography</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <id type="integer">2108</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Tue May 01 10:39:48 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Biography</name>
+        <original-premiere-date type="datetime">2006-08-29T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">18606</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">14</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">11154</series-id>
+        <tms-series-id>SH000168270000</tms-series-id>
+        <videos-count type="integer">122</videos-count>
+        <votes-count type="integer">4848</votes-count>
+        <user-star-rating type="float">4.19467932065484</user-star-rating>
+        <channels>News and Information~Documentary and Biography</channels>
+        <channels-with-plus>News and Information~Documentary and Biography</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">261</channel-id>
+        <collation-name>bio.</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">186</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>bio.</name>
+        <short-name>bio.</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>bio.</display-name>
+        <short-display-name>bio.</short-display-name>
+        <uber-company-id type="integer">186</uber-company-id>
+      </company>
+    </video>
+  </videos>
+  <suggestions nil="true"/>
+  <pivoted-counts>
+    <type-counts type="array">
+      <type-count>
+        <count type="integer">2850</count>
+        <pivot-value>clip</pivot-value>
+      </type-count>
+      <type-count>
+        <count type="integer">150</count>
+        <pivot-value>episode</pivot-value>
+      </type-count>
+    </type-counts>
+    <special-feature-counts type="array">
+      <special-feature-count>
+        <count type="integer">173</count>
+        <pivot-value>Closed Captioning</pivot-value>
+      </special-feature-count>
+    </special-feature-counts>
+    <company-counts type="array">
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>l studio</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">3</count>
+        <pivot-value>mtv</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1569</count>
+        <pivot-value>abc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">108</count>
+        <pivot-value>fox</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">30</count>
+        <pivot-value>nhl</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>bio.</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>watchmojo.com</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>carsey werner</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">2</count>
+        <pivot-value>edmunds</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1117</count>
+        <pivot-value>nbc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">2</count>
+        <pivot-value>ign</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>icue.com</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">57</count>
+        <pivot-value>hulu exclusives</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">96</count>
+        <pivot-value>e! entertainment</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">9</count>
+        <pivot-value>g4</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>starz</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>chic.tv</pivot-value>
+      </company-count>
+    </company-counts>
+    <showname-counts type="array">
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Biography</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Bitter Lawyer</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>CHIC.TV Models</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>Edmunds' Inside Line</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>FlickMojo</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>IGN</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Richard Roeper &amp; The Movies</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">18</count>
+        <pivot-value>The Apprentice</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">34</count>
+        <pivot-value>The Bachelor</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Bachelorette</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">217</count>
+        <pivot-value>The Office</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">7</count>
+        <pivot-value>X-Play</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">91</count>
+        <pivot-value>The Simpsons</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>Videogame Trailers</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Eagle Has Landed</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">882</count>
+        <pivot-value>The Voice</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">30</count>
+        <pivot-value>Voices</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">3</count>
+        <pivot-value>The Challenge</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1534</count>
+        <pivot-value>The View</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Cosby Show</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">96</count>
+        <pivot-value>The Soup</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">17</count>
+        <pivot-value>The Finder</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">57</count>
+        <pivot-value>The Morning After</pivot-value>
+      </showname-count>
+    </showname-counts>
+  </pivoted-counts>
+  <st type="integer">0</st>
+  <filtered-pivoted-counts>
+    <type-counts type="array">
+      <type-count>
+        <count type="integer">2850</count>
+        <pivot-value>clip</pivot-value>
+      </type-count>
+      <type-count>
+        <count type="integer">150</count>
+        <pivot-value>episode</pivot-value>
+      </type-count>
+    </type-counts>
+    <special-feature-counts type="array">
+      <special-feature-count>
+        <count type="integer">173</count>
+        <pivot-value>Closed Captioning</pivot-value>
+      </special-feature-count>
+    </special-feature-counts>
+    <company-counts type="array">
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>l studio</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">3</count>
+        <pivot-value>mtv</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1569</count>
+        <pivot-value>abc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">108</count>
+        <pivot-value>fox</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">30</count>
+        <pivot-value>nhl</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>bio.</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>watchmojo.com</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>carsey werner</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">2</count>
+        <pivot-value>edmunds</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1117</count>
+        <pivot-value>nbc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">2</count>
+        <pivot-value>ign</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>icue.com</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">57</count>
+        <pivot-value>hulu exclusives</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">96</count>
+        <pivot-value>e! entertainment</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">9</count>
+        <pivot-value>g4</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>starz</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>chic.tv</pivot-value>
+      </company-count>
+    </company-counts>
+    <showname-counts type="array">
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Biography</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Bitter Lawyer</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>CHIC.TV Models</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>Edmunds' Inside Line</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>FlickMojo</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>IGN</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Richard Roeper &amp; The Movies</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">18</count>
+        <pivot-value>The Apprentice</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">34</count>
+        <pivot-value>The Bachelor</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Bachelorette</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">217</count>
+        <pivot-value>The Office</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">7</count>
+        <pivot-value>X-Play</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">91</count>
+        <pivot-value>The Simpsons</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>Videogame Trailers</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Eagle Has Landed</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">882</count>
+        <pivot-value>The Voice</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">30</count>
+        <pivot-value>Voices</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">3</count>
+        <pivot-value>The Challenge</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1534</count>
+        <pivot-value>The View</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Cosby Show</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">96</count>
+        <pivot-value>The Soup</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">17</count>
+        <pivot-value>The Finder</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">57</count>
+        <pivot-value>The Morning After</pivot-value>
+      </showname-count>
+    </showname-counts>
+  </filtered-pivoted-counts>
+  <search-type>general_search</search-type>
+</results>

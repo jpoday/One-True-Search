@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<ItemLookupResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+
+  <Items>
+    <Request>
+      <IsValid>True</IsValid>
+      <ItemLookupRequest>
+        <Condition>New</Condition>
+        <IdType>ASIN</IdType>
+        <ItemId>B003QS9WIE</ItemId>
+        <ItemId>B0060DYMT6</ItemId>
+        <ResponseGroup>EditorialReview</ResponseGroup>
+        <ResponseGroup>ItemAttributes</ResponseGroup>
+        <ResponseGroup>Images</ResponseGroup>
+        <ResponseGroup>Offers</ResponseGroup>
+        <VariationPage>All</VariationPage>
+      </ItemLookupRequest>
+    </Request>
+    <Item>
+      <ASIN>B003QS9WIE</ASIN>
+      <DetailPageURL>http://www.amazon.com/The-Prestige/dp/B003QS9WIE%3FSubscriptionId%3DAKIAJJ73KGKOKDOBLMWA%26tag%3Dontrqu-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003QS9WIE</DetailPageURL>
+
+<ItemAttributes>
+  <Actor>Hugh Jackman</Actor>
+  <Actor>Christian Bale</Actor>
+  <Actor>Michael Caine</Actor>
+  <Actor>Scarlett Johansson</Actor>
+  <Actor>Rebecca Hall</Actor>
+  <AudienceRating>PG-13 (Parental Guidance Suggested)</AudienceRating>
+  <Binding>Amazon Instant Video</Binding>
+  <Creator Role="Writer">Christopher Nolan</Creator>
+  <Creator Role="Producer">Christopher Ball</Creator>
+  <Creator Role="Producer">William Tyler</Creator>
+  <Creator Role="Writer">Jonathan Nolan</Creator>
+  <Director>Christopher Nolan</Director>
+  <Genre>Drama</Genre>
+  <ProductGroup>Movie</ProductGroup>
+  <ProductTypeName>DOWNLOADABLE_MOVIE</ProductTypeName>
+  <ReleaseDate>2011-01-01</ReleaseDate>
+  <RunningTime Units="minutes">131</RunningTime>
+  <Studio>Touchstone Pictures</Studio>
+  <Title>The Prestige</Title>
+</ItemAttributes>
+<OfferSummary>
+  <LowestNewPrice>
+    <Amount>199</Amount>
+    <CurrencyCode>USD</CurrencyCode>
+    <FormattedPrice>$1.99</FormattedPrice>
+  </LowestNewPrice>
+  <TotalNew>1</TotalNew>
+  <TotalUsed>0</TotalUsed>
+  <TotalCollectible>0</TotalCollectible>
+  <TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+  <TotalOffers>1</TotalOffers>
+  <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/B003QS9WIE%3FSubscriptionId%3DAKIAJJ73KGKOKDOBLMWA%26tag%3Dontrqu-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB003QS9WIE</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>i0AABN6bN7IqSDegptj4uGn6dse81c0sGTcncQpj%2BnuvK4N%2Bxk8LLZ4OuI%2BZ3OZVuCbopkuJGswaa6NENPwjw3vFnTB%2FLHSP%2Fp0svtTI1ZIo%2F8i6ksSlNCr8KoTzYRrR9tqzwm67faHc6ov8fsJHY9M3zzlchrLc</OfferListingId>
+            <Price>
+              <Amount>199</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$1.99</FormattedPrice>
+            </Price>
+            <Availability>Usually ships in 1-2 business days</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>24</MinimumHours>
+              <MaximumHours>48</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+          </OfferListing>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B0060DYMT6</ASIN>
+      <DetailPageURL>http://www.amazon.com/The-Prestige/dp/B0060DYMT6%3FSubscriptionId%3DAKIAJJ73KGKOKDOBLMWA%26tag%3Dontrqu-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0060DYMT6</DetailPageURL>
+      
+      <ItemAttributes>
+        <Actor>Hugh Jackman</Actor>
+        <Actor>Christian Bale</Actor>
+        <Actor>Michael Caine</Actor>
+        <Actor>Scarlett Johansson</Actor>
+        <Actor>Rebecca Hall</Actor>
+        <AudienceRating>PG-13 (Parental Guidance Suggested)</AudienceRating>
+        <Binding>Amazon Instant Video</Binding>
+        <Creator Role="Writer">Christopher Nolan</Creator>
+        <Creator Role="Producer">Christopher Ball</Creator>
+        <Creator Role="Producer">William Tyler</Creator>
+        <Creator Role="Writer">Jonathan Nolan</Creator>
+        <Director>Christopher Nolan</Director>
+        <Genre>Drama</Genre>
+        <ProductGroup>Movie</ProductGroup>
+        <ProductTypeName>DOWNLOADABLE_MOVIE</ProductTypeName>
+        <ReleaseDate>2011-10-19</ReleaseDate>
+        <RunningTime Units="minutes">131</RunningTime>
+        <Studio>Touchstone Pictures</Studio>
+        <Title>The Prestige</Title>
+      </ItemAttributes> 
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>999</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$9.99</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/B0060DYMT6%3FSubscriptionId%3DAKIAJJ73KGKOKDOBLMWA%26tag%3Dontrqu-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0060DYMT6</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>d6urG%2BB7%2BQEQYNZJxpR2GTcmtXmfQaXFHwDBLzbl4uCzZ7ItMWJjyIKZPH47lP9gtt%2BEOEmHTlmEzex80XyJMjoVl2DzQM0%2FRCH5vSSLqrfdeqXYeu0wcvLFqKOf%2FGgbJdN8rxZT%2FoSaUEVlqkK0rkO8K2uGFQUX</OfferListingId>
+            <Price>
+              <Amount>999</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$9.99</FormattedPrice>
+            </Price>
+            <Availability>Usually ships in 1-2 business days</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>24</MinimumHours>
+              <MaximumHours>48</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+          </OfferListing>
+        </Offer>
+      </Offers>
+    </Item>
+  </Items>
+</ItemLookupResponse>
