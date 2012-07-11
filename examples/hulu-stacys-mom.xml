@@ -1,0 +1,1920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+  <show-name-set type="array">
+    <show-name-set>
+      <value>Stacy's Mom</value>
+    </show-name-set>
+  </show-name-set>
+  <filtered-pivoted-counts>
+    <showname-counts type="array">
+      <showname-count>
+        <count type="integer">3</count>
+        <pivot-value>ABC Nightline</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>ABC World News with Diane Sawyer</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Dance Moms Miami</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>Reba</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Stacy's Mom</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Staten Island Cakes</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Family Crews</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Real Housewives of New Jersey</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Revolution</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Tonight Show with Jay Leno</pivot-value>
+      </showname-count>
+    </showname-counts>
+    <type-counts type="array">
+      <type-count>
+        <count type="integer">6</count>
+        <pivot-value>clip</pivot-value>
+      </type-count>
+      <type-count>
+        <count type="integer">1</count>
+        <pivot-value>feature_film</pivot-value>
+      </type-count>
+      <type-count>
+        <count type="integer">6</count>
+        <pivot-value>episode</pivot-value>
+      </type-count>
+    </type-counts>
+    <special-feature-counts type="array">
+      <special-feature-count>
+        <count type="integer">4</count>
+        <pivot-value>Closed Captioning</pivot-value>
+      </special-feature-count>
+    </special-feature-counts>
+    <company-counts type="array">
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>abc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>lifetime</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>nbc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>wetv</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">4</count>
+        <pivot-value>abc news</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>bet</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">2</count>
+        <pivot-value>fox television classics</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>bravo</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>gravitas</pivot-value>
+      </company-count>
+    </company-counts>
+  </filtered-pivoted-counts>
+  <count type="integer">13</count>
+  <missed-show-set type="array"/>
+  <videos type="array">
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2012-05-11T12:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>Gravitas</channel>
+      <channels>Comedy</channels>
+      <collation-title>stacysmom</collation-title>
+      <company-id type="integer">313</company-id>
+      <content-id>60069542</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright/>
+      <cp-identifier>Gravitas</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>This raunchy and irreverent coming-of-age comedy focuses on four adolescent pals whose raging hormones zero in on the sexy mother of their friend Stacy. Starring Brittany Powell and Dennis Haskins (Saved By the Bell)</description>
+      <duration type="decimal">5034.94</duration>
+      <eid>wMXsR-OusaDz3EeolV054g</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>01:20:05;18</end-credits-time>
+      <episode-number type="integer"/>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-05-29T18:30:16Z</feed-last-modified-at>
+      <first-available-at type="datetime">2012-05-29T18:04:21Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">true</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">365746</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean"/>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>stacy, mom, kids, high school, sex, sexy, toys, porn, school, prom, dance, puberty, girls, love, mother, brittany powell, dennis haskins, raging, hormones, comedy, </keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Mon Jul 02 01:18:28 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>Film</media-type>
+      <original-premiere-date type="datetime">2010-07-01T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_60069542</pid>
+      <plus-first-available-at type="datetime">2012-05-29T18:04:21Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime">2012-05-11T12:00:00Z</plus-living-room-available-at>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime">2012-05-11T12:00:00Z</plus-mobile-available-at>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime">2012-05-11T12:00:00Z</plus-web-available-at>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">294</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Full Movie</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">2.86422</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2012-05-29T18:04:21Z</released-at>
+      <reviews-count type="integer">13</reviews-count>
+      <season-number type="integer"/>
+      <segments/>
+      <show-id type="integer">10406</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/542/60069542/60069542_145x80_generated.jpg</thumbnail-url>
+      <title>Stacy's Mom</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>feature_film</video-type>
+      <votes-count type="integer">127</votes-count>
+      <score type="float">44.27075</score>
+      <embed-codes/>
+      <user-star-rating type="float">2.86422</user-star-rating>
+      <canonical-name>stacys-mom</canonical-name>
+      <valid-available-at type="datetime">2012-05-11T12:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>stacys-mom</canonical-name>
+        <category-order/>
+        <clips-count type="integer">0</clips-count>
+        <collation-name>stacysmom</collation-name>
+        <collation-title>stacysmom</collation-title>
+        <company-id type="integer">313</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>This raunchy and irreverent coming-of-age comedy focuses on four adolescent pals whose raging hormones zero in on the sexy mother of their friend Stacy.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">1</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre/>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <hulu-premiere-date type="datetime">2012-05-29T16:37:26Z</hulu-premiere-date>
+        <id type="integer">10406</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">true</is-movie>
+        <last-modified type="timestamp">Sun Jul 01 22:04:31 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Stacy's Mom</name>
+        <original-premiere-date type="datetime">2010-07-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">1</plus-web-videos-count>
+        <positive-votes-count type="integer">748</positive-votes-count>
+        <released-at type="datetime">2012-05-29T16:40:59Z</released-at>
+        <reviews-count type="integer">0</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">50007711</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">1</videos-count>
+        <votes-count type="integer">287</votes-count>
+        <user-star-rating type="float">3.10536828175649</user-star-rating>
+        <channels>Comedy</channels>
+        <channels-with-plus>Comedy</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000050</channel-id>
+        <collation-name>Gravitas</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">313</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>Gravitas</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Gravitas</display-name>
+        <short-display-name>Gravitas</short-display-name>
+        <uber-company-id type="integer">313</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime">2011-06-13T10:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>Fox Television Classics</channel>
+      <channels>Comedy|Family</channels>
+      <collation-title>pilot</collation-title>
+      <company-id type="integer">10</company-id>
+      <content-id>17065317</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>2001-2002 Twentieth Century Fox Film Corporation</copyright>
+      <cp-identifier>Twentieth Century Fox Television</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Middle-aged Texas mom Reba struggles with a failed marriage, husband’s girlfriend, smart-mouthed children and a pregnant teenage daughter.</description>
+      <duration type="decimal">1317.95</duration>
+      <eid>vy-gwG7AJ7zkmjp5AVLMzw</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:21:29;00</end-credits-time>
+      <episode-number type="integer">1</episode-number>
+      <expires-at type="datetime">2011-07-18T06:45:00Z</expires-at>
+      <external-id>1AES79</external-id>
+      <feed-last-modified-at type="datetime">2012-05-23T23:41:23Z</feed-last-modified-at>
+      <first-available-at type="datetime">2011-06-13T10:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>24</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">true</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">72772</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>all-american, family, comedy, dysfunction, southern soccer mom, single mother, three kids, dentist, hygienist, teenage pregnancy, relationship, blonde, texas, sitcom, teenager, son in law, brother, sister, husband, wife, redhead, Reba Mcentire, Christopher Rich, Joanna Garcia, Melissa Peterman, Steve Howey, Scarlett Pomers, Mitch Holleman, one word title, Middle-aged, Texas mom, Reba struggles, failed marriage, husband’s girlfriend, smart-mouthed, children, pregnant, teenage daughter,</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Mon Jul 02 00:04:23 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2011-06-13T10:20:09Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2001-10-05T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_17065317</pid>
+      <plus-first-available-at type="datetime">2011-06-13T10:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime">2011-06-13T10:20:09Z</plus-last-processed-subscriptions-at>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">2007</positive-votes-count>
+      <programming-priority type="integer">-1</programming-priority>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link>http://www.amazon.com/dp/B002HJDSBU/?tag=hulu-20</promotional-link>
+      <promotional-text>Buy this season today</promotional-text>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">3.85617</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2009-05-12T22:30:15Z</released-at>
+      <reviews-count type="integer">1</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">1504</show-id>
+      <studio>Twentieth Century Fox Television</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/17/282/84194_145x80_generated__-WyRWIQMfkC0hfn5jHzURg.jpg</thumbnail-url>
+      <title>Pilot</title>
+      <tms-program-id>EP004596600001</tms-program-id>
+      <tms-series-id>SH004596600000</tms-series-id>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">439</votes-count>
+      <score type="float">2.4176223</score>
+      <embed-codes/>
+      <user-star-rating type="float">3.85617</user-star-rating>
+      <canonical-name>reba-pilot</canonical-name>
+      <valid-available-at type="datetime">1970-01-01T00:00:00Z</valid-available-at>
+      <valid-expires-at type="datetime">1970-01-02T00:00:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">true</is-subscriber-only>
+      <is-web-only type="boolean">false</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>reba</canonical-name>
+        <category-order/>
+        <clips-count type="integer">0</clips-count>
+        <collation-name>reba</collation-name>
+        <collation-title>reba</collation-title>
+        <company-id type="integer">10</company-id>
+        <content-age-group>Library</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Country superstar Reba McEntire made her first foray into series television on REBA, an edgy comedy that takes aim at the all-American family with a spirited look at suburban dysfunction. The family members of REBA certainly aren't candidates for a Rockwell portrait, but they muddle through their domestic lives the only way they know how - with brutal honesty and bare-knuckled poise.  REBA will make you laugh as it wins your heart.REBA was created by Allison M. Gibson (Home Improvement, Boy Meets World).  Kevin Abbott (Roseanne) serves as executive producer with Mindy Schultheis (Titus), Michael Hanel (Titus) and Matt Berry (Roseanne) and Don Beck.  Chris Case, Pat Bullard, Reba McEntire, Patti Carr &amp; Lara Runnels serve as co-executive producers for Twentieth Century Fox Television and Acme Productions. REBA is produced by Twentieth Century Fox Television and is distributed by Twentieth Century Fox Television Distribution.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">2007-12-31T00:00:00Z</end-date>
+        <episodes-count type="integer">5</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Comedy</genre>
+        <genres>Comedy</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">1504</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Mon Jul 02 00:49:40 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Reba</name>
+        <original-premiere-date type="datetime">2001-10-05T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">4</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">90</plus-web-videos-count>
+        <positive-votes-count type="integer">39413</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">23</reviews-count>
+        <seasons-count type="integer">2</seasons-count>
+        <series-id type="integer">10457</series-id>
+        <tms-series-id>SH004596600000</tms-series-id>
+        <videos-count type="integer">5</videos-count>
+        <votes-count type="integer">10239</votes-count>
+        <user-star-rating type="float">4.20365248564962</user-star-rating>
+        <channels>Comedy|Family</channels>
+        <channels-with-plus>Comedy|Family</channels-with-plus>
+      </show>
+      <company>
+        <background-color>#afaeaa</background-color>
+        <channel-id type="integer">45</channel-id>
+        <collation-name>Fox Television Classics</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">10</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>Twentieth Century Fox Television</name>
+        <short-name>Fox Television Classics</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Twentieth Century Fox Television</display-name>
+        <short-display-name>Fox Television Classics</short-display-name>
+        <uber-company-id type="integer">10</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean">true</allow-progressive-download>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2011-02-01T09:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>ABC News</channel>
+      <channels>News and Information</channels>
+      <collation-title>monjan312011</collation-title>
+      <company-id type="integer">296</company-id>
+      <content-id>50118800</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>ABCNews</copyright>
+      <cp-identifier>ABC News</cp-identifier>
+      <daypart>Evening</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Egypt, Mom Murders Teens, Winter Storms</description>
+      <duration type="decimal">1321.82</duration>
+      <eid>awNHMJAUBEVJbcKs13tmHw</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">224</episode-number>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-05-17T01:52:32Z</feed-last-modified-at>
+      <first-available-at type="datetime">2011-02-01T10:44:11Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">true</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">211541</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>ABC, ABCNews, News, Egypt, Mom Murders Teens, Winter Storms, Cynthia McFadden, Nightline, World, US</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sun Jul 01 11:17:22 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2011-02-01T11:15:10Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2011-01-31T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50118800</pid>
+      <plus-first-available-at type="datetime">2011-02-01T10:44:11Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime">2011-02-01T11:15:10Z</plus-last-processed-subscriptions-at>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">125</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.03742</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2011-02-01T10:44:11Z</released-at>
+      <reviews-count type="integer">1</reviews-count>
+      <season-number type="integer">31</season-number>
+      <segments/>
+      <show-id type="integer">3797</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/800/50118800/235550_145x80_generated.jpg</thumbnail-url>
+      <title>Mon, Jan 31, 2011</title>
+      <tms-program-id/>
+      <tms-series-id>SH000031380000</tms-series-id>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">31</votes-count>
+      <score type="float">2.3739362</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.03742</user-star-rating>
+      <canonical-name>abc-nightline-mon-jan-31-2011</canonical-name>
+      <valid-available-at type="datetime">2011-02-01T09:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>nightline</canonical-name>
+        <category-order/>
+        <clips-count type="integer">1279</clips-count>
+        <collation-name>nightline</collation-name>
+        <collation-title>nightline</collation-title>
+        <company-id type="integer">296</company-id>
+        <content-age-group>Current</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Nightline, television's most esteemed late-night news program provides viewers with in-depth reporting on the major stories in the news.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">609</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>News and Information</genre>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">3797</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Mon Jul 02 01:29:30 UTC 2012</last-modified>
+        <link-description>Check out Nightline’s &lt;a href="http://abcnews.go.com/nightline" target="_blank"&gt;website&lt;/a&gt; for photos, daily blog and more.</link-description>
+        <link-url/>
+        <name>ABC Nightline</name>
+        <original-premiere-date type="datetime">1980-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">4</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">609</plus-web-videos-count>
+        <positive-votes-count type="integer">22975</positive-votes-count>
+        <released-at type="datetime">2010-01-20T22:03:16Z</released-at>
+        <reviews-count type="integer">6</reviews-count>
+        <seasons-count type="integer">4</seasons-count>
+        <series-id type="integer">50000630</series-id>
+        <tms-series-id>SH000031380000</tms-series-id>
+        <videos-count type="integer">1888</videos-count>
+        <votes-count type="integer">8562</votes-count>
+        <user-star-rating type="float">3.18067845509138</user-star-rating>
+        <channels>News and Information</channels>
+        <channels-with-plus>News and Information</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000030</channel-id>
+        <collation-name>ABC News</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">296</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>ABC News</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>ABC News</display-name>
+        <short-display-name>ABC News</short-display-name>
+        <uber-company-id type="integer">296</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2012-01-05T10:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>ABC News</channel>
+      <channels>News and Information</channels>
+      <collation-title>wedjan42012</collation-title>
+      <company-id type="integer">296</company-id>
+      <content-id>60021813</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>ABCNews</copyright>
+      <cp-identifier>ABC News</cp-identifier>
+      <daypart>Evening</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Young Mom Shoots Intruder, Swamp Brothers, Christina-Taylor Green</description>
+      <duration type="decimal">1000.7</duration>
+      <eid>QN9UxVdIan0EKbwN75BaRQ</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:16:30;13</end-credits-time>
+      <episode-number type="integer">203</episode-number>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-05-17T01:21:18Z</feed-last-modified-at>
+      <first-available-at type="datetime">2012-01-05T10:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">true</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">315624</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Teen Mom, Intruder, Christina-Taylor Green, Swamp Brothers, Cynthia McFadden, Nightline, ABC, ABCNews, News, US</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Mon Jul 02 01:04:58 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2012-01-04T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_60021813</pid>
+      <plus-first-available-at type="datetime">2012-01-05T10:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">148</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.24815</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2012-01-05T08:39:12Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">32</season-number>
+      <segments/>
+      <show-id type="integer">3797</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/813/60021813/60021813_145x80_generated.jpg</thumbnail-url>
+      <title>Wed, Jan 4, 2012</title>
+      <tms-program-id/>
+      <tms-series-id>SH000031380000</tms-series-id>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">34</votes-count>
+      <score type="float">2.370146</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.24815</user-star-rating>
+      <canonical-name>abc-nightline-wed-jan-4-2012</canonical-name>
+      <valid-available-at type="datetime">2012-01-05T10:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>nightline</canonical-name>
+        <category-order/>
+        <clips-count type="integer">1279</clips-count>
+        <collation-name>nightline</collation-name>
+        <collation-title>nightline</collation-title>
+        <company-id type="integer">296</company-id>
+        <content-age-group>Current</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Nightline, television's most esteemed late-night news program provides viewers with in-depth reporting on the major stories in the news.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">609</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>News and Information</genre>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">3797</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Mon Jul 02 01:29:30 UTC 2012</last-modified>
+        <link-description>Check out Nightline’s &lt;a href="http://abcnews.go.com/nightline" target="_blank"&gt;website&lt;/a&gt; for photos, daily blog and more.</link-description>
+        <link-url/>
+        <name>ABC Nightline</name>
+        <original-premiere-date type="datetime">1980-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">4</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">609</plus-web-videos-count>
+        <positive-votes-count type="integer">22975</positive-votes-count>
+        <released-at type="datetime">2010-01-20T22:03:16Z</released-at>
+        <reviews-count type="integer">6</reviews-count>
+        <seasons-count type="integer">4</seasons-count>
+        <series-id type="integer">50000630</series-id>
+        <tms-series-id>SH000031380000</tms-series-id>
+        <videos-count type="integer">1888</videos-count>
+        <votes-count type="integer">8562</votes-count>
+        <user-star-rating type="float">3.18067845509138</user-star-rating>
+        <channels>News and Information</channels>
+        <channels-with-plus>News and Information</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000030</channel-id>
+        <collation-name>ABC News</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">296</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>ABC News</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>ABC News</display-name>
+        <short-display-name>ABC News</short-display-name>
+        <uber-company-id type="integer">296</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">1985-01-02T01:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>BET</channel>
+      <channels>Family|Reality and Game Shows~Real Life Drama</channels>
+      <collation-title>mrmommrssuperstar</collation-title>
+      <company-id type="integer">374</company-id>
+      <content-id>50121079</content-id>
+      <content-rating>TV-14</content-rating>
+      <content-rating-reason>D</content-rating-reason>
+      <copyright>BET 2010</copyright>
+      <cp-identifier>Viacom</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Terry decides to play Mr. Mom, juggling breakfast, home, school, and running errands.</description>
+      <duration type="decimal">1227.48</duration>
+      <eid>d7NEFNNIuwp4QPVBE6tsNw</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:20:03;00</end-credits-time>
+      <episode-number type="integer">2</episode-number>
+      <expires-at type="datetime">1985-01-02T21:57:37Z</expires-at>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-05-18T02:20:13Z</feed-last-modified-at>
+      <first-available-at type="datetime">2011-06-15T00:22:10Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>24</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">true</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">249688</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Family, Reality, Football, Terry Crews, Marriage, Acting, Kids, Rebecca, Mr Mom, School, Errands, Home</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Mon Jul 02 00:48:33 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2010-02-21T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50121079</pid>
+      <plus-first-available-at type="datetime">2011-11-01T08:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime">2011-11-01T08:00:00Z</plus-living-room-available-at>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime">2011-11-01T08:00:00Z</plus-mobile-available-at>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime">2011-11-01T08:00:00Z</plus-web-available-at>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">18</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2011-06-15T00:22:10Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">6976</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/79/50121079/237446_145x80_generated.jpg</thumbnail-url>
+      <title>Mr. Mom/Mrs. Superstar</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">4</votes-count>
+      <score type="float">2.366356</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>the-family-crews-mr-mommrs-superstar</canonical-name>
+      <valid-available-at type="datetime">1970-01-01T00:00:00Z</valid-available-at>
+      <valid-expires-at type="datetime">1970-01-02T00:00:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">true</is-subscriber-only>
+      <is-web-only type="boolean">false</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>the-family-crews</canonical-name>
+        <category-order/>
+        <clips-count type="integer">0</clips-count>
+        <collation-name>familycrews</collation-name>
+        <collation-title>familycrews</collation-title>
+        <company-id type="integer">374</company-id>
+        <content-age-group>Library</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Reality series featuring actor Terry Crews, his vivacious, no-nonsense wife Rebecca and their five children.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre/>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">6976</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Sun Jul 01 16:47:21 UTC 2012</last-modified>
+        <link-description>For more on this show, visit the official &lt;a href="http://bet.com/familycrews" target="_blank"&gt;Family Crews&lt;/a&gt; site.</link-description>
+        <link-url>http://assets.hulu.com/networklogos/bet-preroll.flv</link-url>
+        <name>The Family Crews</name>
+        <original-premiere-date type="datetime">2010-02-21T08:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">1</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">11</plus-web-videos-count>
+        <positive-votes-count type="integer">1142</positive-votes-count>
+        <released-at type="datetime">2011-02-08T19:57:38Z</released-at>
+        <reviews-count type="integer">0</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">50002801</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">0</videos-count>
+        <votes-count type="integer">272</votes-count>
+        <user-star-rating type="float">4.46772923875432</user-star-rating>
+        <channels/>
+        <channels-with-plus>Family|Reality and Game Shows~Real Life Drama</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000113</channel-id>
+        <collation-name>BET</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">374</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>BET</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>BET</display-name>
+        <short-display-name>BET</short-display-name>
+        <uber-company-id type="integer">374</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>4x3</aspect-ratio>
+      <available-at type="datetime">2011-12-06T00:45:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>Fox Television Classics</channel>
+      <channels>Comedy|Family</channels>
+      <collation-title>rebaworksforbrock</collation-title>
+      <company-id type="integer">10</company-id>
+      <content-id>12063818</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>2001-2002 Twentieth Century Fox Film Corporation</copyright>
+      <cp-identifier>Twentieth Century Fox Television</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Working for Brock involves Reba too much in his marriage. Being Mr. Mom, Van worries that Cheyenne would rather be at college than with him and their baby.</description>
+      <duration type="decimal">1319.64</duration>
+      <eid>iaaHlz4Nkt5SJCKKdSShRw</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:21:59;00</end-credits-time>
+      <episode-number type="integer">4</episode-number>
+      <expires-at type="datetime">2012-01-09T07:45:00Z</expires-at>
+      <external-id>2AES04</external-id>
+      <feed-last-modified-at type="datetime">2012-05-23T23:41:23Z</feed-last-modified-at>
+      <first-available-at type="datetime">2010-03-15T10:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>24</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">true</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">true</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">45783</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>all-american, family, comedy, dysfunction, southern soccer mom, single mother, three kids, dentist, hygienist, teenage pregnancy, relationship, blonde, texas, sitcom, teenager, son in law, brother, sister, husband, wife, redhead, Reba Mcentire, Christopher Rich, Joanna Garcia, Melissa Peterman, Steve Howey, Scarlett Pomers, Mitch Holleman, one word title</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sun Jul 01 23:57:13 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2010-03-15T10:22:02Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2002-10-11T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_12063818</pid>
+      <plus-first-available-at type="datetime">2010-03-15T10:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">1035</positive-votes-count>
+      <programming-priority type="integer">-1</programming-priority>
+      <programming-type>Full Episode</programming-type>
+      <promotional-link>http://www.amazon.com/dp/B002HS1KZ2/?tag=hulu-20</promotional-link>
+      <promotional-text>Buy this season today</promotional-text>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">4.06316</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2008-11-14T21:43:44Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">2</season-number>
+      <segments/>
+      <show-id type="integer">1504</show-id>
+      <studio>Twentieth Century Fox Television</studio>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/12/518/47321_145x80_generated__jMGiCtO31ka1cpKqaqgaZA.jpg</thumbnail-url>
+      <title>Reba Works For Brock</title>
+      <tms-program-id>EP004596600026</tms-program-id>
+      <tms-series-id>SH004596600000</tms-series-id>
+      <tune-in-information/>
+      <video-type>episode</video-type>
+      <votes-count type="integer">225</votes-count>
+      <score type="float">2.366046</score>
+      <embed-codes/>
+      <user-star-rating type="float">4.06316</user-star-rating>
+      <canonical-name>reba-reba-works-for-brock</canonical-name>
+      <valid-available-at type="datetime">1970-01-01T00:00:00Z</valid-available-at>
+      <valid-expires-at type="datetime">1970-01-02T00:00:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">true</is-subscriber-only>
+      <is-web-only type="boolean">false</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>reba</canonical-name>
+        <category-order/>
+        <clips-count type="integer">0</clips-count>
+        <collation-name>reba</collation-name>
+        <collation-title>reba</collation-title>
+        <company-id type="integer">10</company-id>
+        <content-age-group>Library</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Country superstar Reba McEntire made her first foray into series television on REBA, an edgy comedy that takes aim at the all-American family with a spirited look at suburban dysfunction. The family members of REBA certainly aren't candidates for a Rockwell portrait, but they muddle through their domestic lives the only way they know how - with brutal honesty and bare-knuckled poise.  REBA will make you laugh as it wins your heart.REBA was created by Allison M. Gibson (Home Improvement, Boy Meets World).  Kevin Abbott (Roseanne) serves as executive producer with Mindy Schultheis (Titus), Michael Hanel (Titus) and Matt Berry (Roseanne) and Don Beck.  Chris Case, Pat Bullard, Reba McEntire, Patti Carr &amp; Lara Runnels serve as co-executive producers for Twentieth Century Fox Television and Acme Productions. REBA is produced by Twentieth Century Fox Television and is distributed by Twentieth Century Fox Television Distribution.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime">2007-12-31T00:00:00Z</end-date>
+        <episodes-count type="integer">5</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Comedy</genre>
+        <genres>Comedy</genres>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">1504</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Mon Jul 02 00:49:40 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Reba</name>
+        <original-premiere-date type="datetime">2001-10-05T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">4</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">90</plus-web-videos-count>
+        <positive-votes-count type="integer">39413</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">23</reviews-count>
+        <seasons-count type="integer">2</seasons-count>
+        <series-id type="integer">10457</series-id>
+        <tms-series-id>SH004596600000</tms-series-id>
+        <videos-count type="integer">5</videos-count>
+        <votes-count type="integer">10239</votes-count>
+        <user-star-rating type="float">4.20365248564962</user-star-rating>
+        <channels>Comedy|Family</channels>
+        <channels-with-plus>Comedy|Family</channels-with-plus>
+      </show>
+      <company>
+        <background-color>#afaeaa</background-color>
+        <channel-id type="integer">45</channel-id>
+        <collation-name>Fox Television Classics</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">10</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>Twentieth Century Fox Television</name>
+        <short-name>Fox Television Classics</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Twentieth Century Fox Television</display-name>
+        <short-display-name>Fox Television Classics</short-display-name>
+        <uber-company-id type="integer">10</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2012-05-24T10:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>Lifetime</channel>
+      <channels>Reality and Game Shows~Real Life Drama</channels>
+      <collation-title>bonusscenethisismystudio</collation-title>
+      <company-id type="integer">300</company-id>
+      <content-id>60077655</content-id>
+      <content-rating>TV-PG</content-rating>
+      <content-rating-reason/>
+      <copyright>2012 A&amp;E Television Networks</copyright>
+      <cp-identifier>A&amp;E</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>When Victor ignores the duet, Mom Susan gets furious and questions his work ethics. Victor lets her know who runs the studio around here.</description>
+      <duration type="decimal">55.08</duration>
+      <eid>7EeNUxsxoHB9UzLrA1IEsQ</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">7</episode-number>
+      <expires-at type="datetime">2035-01-01T04:59:59Z</expires-at>
+      <external-id>276885</external-id>
+      <feed-last-modified-at type="datetime">2012-06-19T03:18:12Z</feed-last-modified-at>
+      <first-available-at type="datetime">2012-05-25T13:12:21Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">365010</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Dance Moms Miami,Bonus Scene: This Is My Studio,Susan,Victor,fight,yelling, intesne, dance moms miami, episode 7, No One Likes A Quitter,Dance Moms Miami, Season 1, Stars Dance Studio, Miami, Florida, Dance Moms, dance, dancers, competition, Victor Smalley, Angel Armas, instructors, teachers, students, kids, children, teens, teenagers, choreographers, choreography, contemporary dance, fami</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Mon Jul 02 01:18:15 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2011-11-01T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_60077655</pid>
+      <plus-first-available-at type="datetime">2012-05-25T13:12:21Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">0</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Web Exclusive</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2012-05-25T13:12:21Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">10237</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/655/60077655/60077655_145x80_generated.jpg</thumbnail-url>
+      <title>Bonus Scene: This Is My Studio</title>
+      <tms-program-id/>
+      <tms-series-id/>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">0</votes-count>
+      <score type="float">2.3531568</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>dance-moms-miami-bonus-scene-this-is-my-studio</canonical-name>
+      <valid-available-at type="datetime">2012-05-24T10:00:00Z</valid-available-at>
+      <valid-expires-at type="datetime">2035-01-01T04:59:59Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>dance-moms-miami</canonical-name>
+        <category-order/>
+        <clips-count type="integer">25</clips-count>
+        <collation-name>dancemomsmiami</collation-name>
+        <collation-title>dancemomsmiami</collation-title>
+        <company-id type="integer">300</company-id>
+        <content-age-group>Other</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Dance Moms: Miami will go behind-the-scenes at Miami-based Stars Dance Studio, where the school's owners and renowned contemporary dance instructors Victor Smalley and Angel Armas teach, train and choreograph a diverse group of talented girl and boy dancers as they strive to become the best in the sport of competitive dance and tomorrow stars.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">0</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre/>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">10237</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Sun Jul 01 10:36:00 UTC 2012</last-modified>
+        <link-description/>
+        <link-url/>
+        <name>Dance Moms Miami</name>
+        <original-premiere-date type="datetime">2011-11-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">0</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">0</plus-web-videos-count>
+        <positive-votes-count type="integer">254</positive-votes-count>
+        <released-at type="datetime">2012-05-03T07:03:16Z</released-at>
+        <reviews-count type="integer">0</reviews-count>
+        <seasons-count type="integer">0</seasons-count>
+        <series-id type="integer">50007476</series-id>
+        <tms-series-id/>
+        <videos-count type="integer">25</videos-count>
+        <votes-count type="integer">60</votes-count>
+        <user-star-rating type="float">4.49297777777778</user-star-rating>
+        <channels>Reality and Game Shows~Real Life Drama</channels>
+        <channels-with-plus>Reality and Game Shows~Real Life Drama</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000037</channel-id>
+        <collation-name>Lifetime</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">300</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>Lifetime</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>Lifetime</display-name>
+        <short-display-name>Lifetime</short-display-name>
+        <uber-company-id type="integer">300</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2012-01-12T00:23:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>NBC</channel>
+      <channels>Talk and Interview~Late Night|Comedy~Satire</channels>
+      <collation-title>toddlerstiarasmom</collation-title>
+      <company-id type="integer">2</company-id>
+      <content-id>60024273</content-id>
+      <content-rating>TV-PG</content-rating>
+      <content-rating-reason>D</content-rating-reason>
+      <copyright/>
+      <cp-identifier>NBC</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Toddlers &amp; Tiaras Mom showed up where??</description>
+      <duration type="decimal">61.7</duration>
+      <eid>lvC3QfE9rUH8Fk-_ZP8C4Q</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">4178</episode-number>
+      <expires-at type="datetime">2013-01-10T08:35:00Z</expires-at>
+      <external-id>17696805</external-id>
+      <feed-last-modified-at type="datetime">2012-05-17T21:56:01Z</feed-last-modified-at>
+      <first-available-at type="datetime">2012-01-12T00:23:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">true</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">true</has-plus-living-room>
+      <has-plus-mobile type="boolean">true</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">true</has-plus-web>
+      <id type="integer">317915</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Weeknights, 11:35/10:35c</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sun Jul 01 11:47:33 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2012-01-10T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_60024273</pid>
+      <plus-first-available-at type="datetime">2012-01-12T00:23:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime">2012-01-12T00:23:00Z</plus-living-room-available-at>
+      <plus-living-room-expires-at type="datetime">2013-01-10T08:35:00Z</plus-living-room-expires-at>
+      <plus-mobile-available-at type="datetime">2012-01-12T00:23:00Z</plus-mobile-available-at>
+      <plus-mobile-expires-at type="datetime">2013-01-10T08:35:00Z</plus-mobile-expires-at>
+      <plus-web-available-at type="datetime">2012-01-12T00:23:00Z</plus-web-available-at>
+      <plus-web-expires-at type="datetime">2013-01-10T08:35:00Z</plus-web-expires-at>
+      <positive-votes-count type="integer">8</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Excerpt</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2012-01-11T06:44:15Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">20</season-number>
+      <segments/>
+      <show-id type="integer">2161</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/273/60024273/60024273_145x80_generated.jpg</thumbnail-url>
+      <title>Toddlers &amp; Tiaras Mom</title>
+      <tms-program-id/>
+      <tms-series-id>SH000043970000</tms-series-id>
+      <tune-in-information>Weeknights at 11:35/10:35c on NBC</tune-in-information>
+      <video-type>clip</video-type>
+      <votes-count type="integer">2</votes-count>
+      <score type="float">2.3436368</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>the-tonight-show-with-jay-leno-toddlers-and-tiaras-mom</canonical-name>
+      <valid-available-at type="datetime">2012-01-12T00:23:00Z</valid-available-at>
+      <valid-expires-at type="datetime">2013-01-10T08:35:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>the-tonight-show-with-jay-leno</canonical-name>
+        <category-order/>
+        <clips-count type="integer">3546</clips-count>
+        <collation-name>tonightshowwithjayleno</collation-name>
+        <collation-title>tonightshowwithjayleno</collation-title>
+        <company-id type="integer">2</company-id>
+        <content-age-group>Current</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Jay Leno hosts this nightly variety show with interviews and comedy sketches.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">12</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>Talk and Interview</genre>
+        <genres>Comedy, Talk and Interview</genres>
+        <has-hd type="boolean">true</has-hd>
+        <has-plus-living-room type="boolean">true</has-plus-living-room>
+        <has-plus-mobile type="boolean">true</has-plus-mobile>
+        <has-plus-web type="boolean">true</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">2161</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Sun Jul 01 21:08:59 UTC 2012</last-modified>
+        <link-description>&amp;nbsp;</link-description>
+        <link-url>http://assets.hulu.com/networklogos/nbc-preroll-480k.flv</link-url>
+        <name>The Tonight Show with Jay Leno</name>
+        <original-premiere-date type="datetime">1992-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">1</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">20</plus-web-videos-count>
+        <positive-votes-count type="integer">45216</positive-votes-count>
+        <released-at type="datetime">2009-08-28T09:24:04Z</released-at>
+        <reviews-count type="integer">152</reviews-count>
+        <seasons-count type="integer">1</seasons-count>
+        <series-id type="integer">11839</series-id>
+        <tms-series-id>SH000043970000</tms-series-id>
+        <videos-count type="integer">3558</videos-count>
+        <votes-count type="integer">21278</votes-count>
+        <user-star-rating type="float">2.61376245416698</user-star-rating>
+        <channels>Comedy~Satire|Talk and Interview~Late Night</channels>
+        <channels-with-plus>Comedy~Satire|Talk and Interview~Late Night</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">24</channel-id>
+        <collation-name>NBC</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">2</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>NBC</name>
+        <short-name>NBC</short-name>
+        <text-color/>
+        <website-url>http://www.nbc.com/</website-url>
+        <display-name>NBC</display-name>
+        <short-display-name>NBC</short-display-name>
+        <uber-company-id type="integer">2</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean"/>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2012-01-18T21:22:25Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>ABC</channel>
+      <channels>Health and Wellness</channels>
+      <collation-title>drashtonstipsdrmom</collation-title>
+      <company-id type="integer">231</company-id>
+      <content-id>60027602</content-id>
+      <content-rating>TV-PG</content-rating>
+      <content-rating-reason/>
+      <copyright>ABC Studios</copyright>
+      <cp-identifier>ABC</cp-identifier>
+      <daypart>Prime Time</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>Dr. Ashton has great tips on how to be a Dr. Mom for your family.</description>
+      <duration type="decimal">70.71</duration>
+      <eid>7C9ESzWUoJwVDPBCzMZNEA</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">1</episode-number>
+      <expires-at type="datetime">2013-01-30T08:00:00Z</expires-at>
+      <external-id>4161858</external-id>
+      <feed-last-modified-at type="datetime">2012-05-23T07:27:20Z</feed-last-modified-at>
+      <first-available-at type="datetime">2012-01-19T00:00:12Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description>Dr. Ashton has great tips on how to be a Dr. Mom for your family!</full-description>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">320537</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>Dr.,Jennifer,Ashton,Dr.,Jennifer,Ashton,doctor,mom</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sun Jul 01 05:05:50 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime"/>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2012-01-18T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_60027602</pid>
+      <plus-first-available-at type="datetime">2012-01-19T00:00:12Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime"/>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">0</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Excerpt</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2012-01-19T00:00:12Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">1</season-number>
+      <segments/>
+      <show-id type="integer">8652</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/602/60027602/60027602_145x80_generated.jpg</thumbnail-url>
+      <title>Dr. Ashton's Tips: Dr. Mom</title>
+      <tms-program-id/>
+      <tms-series-id>SH014092860000</tms-series-id>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">0</votes-count>
+      <score type="float">2.3373442</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>the-revolution-dr-ashtons-tips-dr-mom</canonical-name>
+      <valid-available-at type="datetime">2012-01-18T21:22:25Z</valid-available-at>
+      <valid-expires-at type="datetime">2013-01-30T08:00:00Z</valid-expires-at>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>the-revolution</canonical-name>
+        <category-order/>
+        <clips-count type="integer">483</clips-count>
+        <collation-name>revolution</collation-name>
+        <collation-title>revolution</collation-title>
+        <company-id type="integer">231</company-id>
+        <content-age-group>Current</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>A daily show about health and lifestyle transformations, hosted by a team of experts who, along with rotating guest contributors, will help viewers transform all areas of their lives.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">6</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre/>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">8652</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Sun Jul 01 20:50:02 UTC 2012</last-modified>
+        <link-description>&amp;nbsp;</link-description>
+        <link-url>http://assets.hulu.com/networklogos/abc-preroll-480k.flv</link-url>
+        <name>The Revolution</name>
+        <original-premiere-date type="datetime">2011-12-13T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">1</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">6</plus-web-videos-count>
+        <positive-votes-count type="integer">472</positive-votes-count>
+        <released-at type="datetime">2011-12-14T15:33:14Z</released-at>
+        <reviews-count type="integer">0</reviews-count>
+        <seasons-count type="integer">1</seasons-count>
+        <series-id type="integer">50005770</series-id>
+        <tms-series-id>SH014092860000</tms-series-id>
+        <videos-count type="integer">489</videos-count>
+        <votes-count type="integer">164</votes-count>
+        <user-star-rating type="float">3.36661511005354</user-star-rating>
+        <channels>Health and Wellness</channels>
+        <channels-with-plus>Health and Wellness</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">282</channel-id>
+        <collation-name>ABC</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">231</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name>ABC</name>
+        <short-name>ABC</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>ABC</display-name>
+        <short-display-name>ABC</short-display-name>
+        <uber-company-id type="integer">231</uber-company-id>
+      </company>
+    </video>
+    <video>
+      <allow-international type="boolean">false</allow-international>
+      <allow-progressive-download type="boolean">true</allow-progressive-download>
+      <alternate-video-id type="integer"/>
+      <alternate-video-type/>
+      <aspect-ratio>16x9</aspect-ratio>
+      <available-at type="datetime">2010-10-20T09:00:00Z</available-at>
+      <backup-pid/>
+      <categories/>
+      <channel>ABC News</channel>
+      <channels>News and Information</channels>
+      <collation-title>swedenspaternityleave</collation-title>
+      <company-id type="integer">296</company-id>
+      <content-id>50093316</content-id>
+      <content-rating>Not Rated</content-rating>
+      <content-rating-reason/>
+      <copyright>ABCNews</copyright>
+      <cp-identifier>ABC News</cp-identifier>
+      <daypart>Evening</daypart>
+      <default-region>US</default-region>
+      <default-text-language>en</default-text-language>
+      <description>A utopian land where fathers get months off with paid leave to be Mr. Mom.</description>
+      <duration type="decimal">420.0</duration>
+      <eid>lZCF2djmNBr0aQ3-cszRHQ</eid>
+      <embed-permitted type="boolean">true</embed-permitted>
+      <end-credits-time>00:00:00;00</end-credits-time>
+      <episode-number type="integer">149</episode-number>
+      <expires-at type="datetime"/>
+      <external-id/>
+      <feed-last-modified-at type="datetime">2012-05-17T01:38:22Z</feed-last-modified-at>
+      <first-available-at type="datetime">2010-10-20T09:00:00Z</first-available-at>
+      <forced-popularity type="integer">0</forced-popularity>
+      <frame-rate>30</frame-rate>
+      <full-description/>
+      <game-season type="integer"/>
+      <has-captions type="boolean">false</has-captions>
+      <has-hd type="boolean">false</has-hd>
+      <has-mobile type="boolean">false</has-mobile>
+      <has-plus-living-room type="boolean">false</has-plus-living-room>
+      <has-plus-mobile type="boolean">false</has-plus-mobile>
+      <has-plus-preview type="boolean">false</has-plus-preview>
+      <has-plus-web type="boolean">false</has-plus-web>
+      <id type="integer">186696</id>
+      <is-browseable type="boolean">true</is-browseable>
+      <is-mature type="boolean">false</is-mature>
+      <is-placeholder type="boolean">false</is-placeholder>
+      <is-placeholder-email-pending type="boolean">false</is-placeholder-email-pending>
+      <keywords>ABC, ABCNews, News, Sweden, paternity leave, maternity leave, newborn, infant, baby, babysitter, stay at home, macho, Three Men and a Baby, Stockholm, Camilla Lackberg, Martin Melin, diaper duty, playground, stroller, daddy leave, Birgitta Klamberg, Glori</keywords>
+      <language>en</language>
+      <last-modified type="timestamp">Sat Jun 30 11:10:46 UTC 2012</last-modified>
+      <last-processed-subscriptions-at type="datetime">2010-10-20T09:15:16Z</last-processed-subscriptions-at>
+      <legacy-eid/>
+      <legacy-eid-2/>
+      <mashup-permitted type="boolean"/>
+      <masthead-description/>
+      <media-type>TV</media-type>
+      <original-premiere-date type="datetime">2010-10-19T00:00:00Z</original-premiere-date>
+      <pid>NO_MORE_RELEASES_PLEASE_50093316</pid>
+      <plus-first-available-at type="datetime">2010-10-20T09:00:00Z</plus-first-available-at>
+      <plus-last-processed-subscriptions-at type="datetime">2010-10-20T09:15:16Z</plus-last-processed-subscriptions-at>
+      <plus-living-room-available-at type="datetime"/>
+      <plus-living-room-expires-at type="datetime"/>
+      <plus-mobile-available-at type="datetime"/>
+      <plus-mobile-expires-at type="datetime"/>
+      <plus-web-available-at type="datetime"/>
+      <plus-web-expires-at type="datetime"/>
+      <positive-votes-count type="integer">19</positive-votes-count>
+      <programming-priority type="integer"/>
+      <programming-type>Excerpt</programming-type>
+      <promotional-link/>
+      <promotional-text/>
+      <promotional-type>non-promo</promotional-type>
+      <rating type="float">0.0</rating>
+      <recommended type="boolean">false</recommended>
+      <released-at type="datetime">2010-10-20T07:18:07Z</released-at>
+      <reviews-count type="integer">0</reviews-count>
+      <season-number type="integer">31</season-number>
+      <segments/>
+      <show-id type="integer">3797</show-id>
+      <studio/>
+      <tags/>
+      <thumbnail-url>http://thumbnails.hulu.com/316/50093316/208913_145x80_generated.jpg</thumbnail-url>
+      <title>Sweden's Paternity Leave</title>
+      <tms-program-id/>
+      <tms-series-id>SH000031380000</tms-series-id>
+      <tune-in-information/>
+      <video-type>clip</video-type>
+      <votes-count type="integer">4</votes-count>
+      <score type="float">2.3360565</score>
+      <embed-codes/>
+      <user-star-rating type="float">0.0</user-star-rating>
+      <canonical-name>abc-nightline-swedens-paternity-leave</canonical-name>
+      <valid-available-at type="datetime">2010-10-20T09:00:00Z</valid-available-at>
+      <valid-expires-at/>
+      <has-auth type="boolean">false</has-auth>
+      <auth-available-at/>
+      <auth-expires-at/>
+      <is-auth-valid type="boolean">false</is-auth-valid>
+      <has-annotation type="boolean">false</has-annotation>
+      <is-subscriber-only type="boolean">false</is-subscriber-only>
+      <is-web-only type="boolean">true</is-web-only>
+      <show>
+        <audit-url/>
+        <availability-image/>
+        <canonical-name>nightline</canonical-name>
+        <category-order/>
+        <clips-count type="integer">1279</clips-count>
+        <collation-name>nightline</collation-name>
+        <collation-title>nightline</collation-title>
+        <company-id type="integer">296</company-id>
+        <content-age-group>Current</content-age-group>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description>Nightline, television's most esteemed late-night news program provides viewers with in-depth reporting on the major stories in the news.</description>
+        <embed-permitted type="boolean">true</embed-permitted>
+        <end-date type="datetime"/>
+        <episodes-count type="integer">609</episodes-count>
+        <feature-films-count type="integer">0</feature-films-count>
+        <forced-popularity type="integer">0</forced-popularity>
+        <genre>News and Information</genre>
+        <genres/>
+        <has-hd type="boolean">false</has-hd>
+        <has-plus-living-room type="boolean">false</has-plus-living-room>
+        <has-plus-mobile type="boolean">false</has-plus-mobile>
+        <has-plus-web type="boolean">false</has-plus-web>
+        <hulu-premiere-date type="datetime"/>
+        <id type="integer">3797</id>
+        <is-browseable type="boolean">true</is-browseable>
+        <is-movie type="boolean">false</is-movie>
+        <last-modified type="timestamp">Mon Jul 02 01:29:30 UTC 2012</last-modified>
+        <link-description>Check out Nightline’s &lt;a href="http://abcnews.go.com/nightline" target="_blank"&gt;website&lt;/a&gt; for photos, daily blog and more.</link-description>
+        <link-url/>
+        <name>ABC Nightline</name>
+        <original-premiere-date type="datetime">1980-01-01T00:00:00Z</original-premiere-date>
+        <plus-company-id type="integer"/>
+        <plus-web-seasons-count type="integer">4</plus-web-seasons-count>
+        <plus-web-videos-count type="integer">609</plus-web-videos-count>
+        <positive-votes-count type="integer">22975</positive-votes-count>
+        <released-at type="datetime">2010-01-20T22:03:16Z</released-at>
+        <reviews-count type="integer">6</reviews-count>
+        <seasons-count type="integer">4</seasons-count>
+        <series-id type="integer">50000630</series-id>
+        <tms-series-id>SH000031380000</tms-series-id>
+        <videos-count type="integer">1888</videos-count>
+        <votes-count type="integer">8562</votes-count>
+        <user-star-rating type="float">3.18067845509138</user-star-rating>
+        <channels>News and Information</channels>
+        <channels-with-plus>News and Information</channels-with-plus>
+      </show>
+      <company>
+        <background-color/>
+        <channel-id type="integer">50000030</channel-id>
+        <collation-name>ABC News</collation-name>
+        <default-region>US</default-region>
+        <default-text-language>en</default-text-language>
+        <description/>
+        <id type="integer">296</id>
+        <key-art/>
+        <key-art-background/>
+        <last-modified type="timestamp">Wed Apr 11 08:27:57 UTC 2012</last-modified>
+        <link-url/>
+        <name/>
+        <short-name>ABC News</short-name>
+        <text-color/>
+        <website-url/>
+        <display-name>ABC News</display-name>
+        <short-display-name>ABC News</short-display-name>
+        <uber-company-id type="integer">296</uber-company-id>
+      </company>
+    </video>
+  </videos>
+  <suggestions nil="true"/>
+  <result-set-id type="integer">-1</result-set-id>
+  <st type="integer">0</st>
+  <search-type>promoted_search</search-type>
+  <pivoted-counts>
+    <showname-counts type="array">
+      <showname-count>
+        <count type="integer">3</count>
+        <pivot-value>ABC Nightline</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>ABC World News with Diane Sawyer</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Dance Moms Miami</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">2</count>
+        <pivot-value>Reba</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Stacy's Mom</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>Staten Island Cakes</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Family Crews</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Real Housewives of New Jersey</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Revolution</pivot-value>
+      </showname-count>
+      <showname-count>
+        <count type="integer">1</count>
+        <pivot-value>The Tonight Show with Jay Leno</pivot-value>
+      </showname-count>
+    </showname-counts>
+    <type-counts type="array">
+      <type-count>
+        <count type="integer">6</count>
+        <pivot-value>clip</pivot-value>
+      </type-count>
+      <type-count>
+        <count type="integer">1</count>
+        <pivot-value>feature_film</pivot-value>
+      </type-count>
+      <type-count>
+        <count type="integer">6</count>
+        <pivot-value>episode</pivot-value>
+      </type-count>
+    </type-counts>
+    <special-feature-counts type="array">
+      <special-feature-count>
+        <count type="integer">4</count>
+        <pivot-value>Closed Captioning</pivot-value>
+      </special-feature-count>
+    </special-feature-counts>
+    <company-counts type="array">
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>abc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>lifetime</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>nbc</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>wetv</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">4</count>
+        <pivot-value>abc news</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>bet</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">2</count>
+        <pivot-value>fox television classics</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>bravo</pivot-value>
+      </company-count>
+      <company-count>
+        <count type="integer">1</count>
+        <pivot-value>gravitas</pivot-value>
+      </company-count>
+    </company-counts>
+  </pivoted-counts>
+</results>
