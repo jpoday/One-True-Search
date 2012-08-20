@@ -91,8 +91,6 @@ class JSONP
                                              :itunes => itunes, 
                                              :netflix => netflix}}
       end
-      binding.pry
-      
       @block.call ",#{screen_results.to_json.to_s[1..-1]})"
       self.succeed
     end
