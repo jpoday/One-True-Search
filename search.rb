@@ -18,7 +18,7 @@ require 'yajl'
 require 'titleize'
 Dir[File.dirname(__FILE__) + '/lib/*.rb'].each {|file| require file }
 
-require 'pry'
+#require 'pry'
 
 class Search < Sinatra::Base
   register Sinatra::Async
