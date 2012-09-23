@@ -18,7 +18,7 @@ require 'yajl'
 require 'titleize'
 Dir[File.dirname(__FILE__) + '/lib/*.rb'].each {|file| require file }
 
-#require 'pry'
+require 'pry'
 
 class Search < Sinatra::Base
   register Sinatra::Async
@@ -27,7 +27,7 @@ class Search < Sinatra::Base
     Fiber.new do
       EM.synchrony do
         callback = params.delete('callback') # jsonp
-        out = JSONP.new(keyword)
+        out = Output::JSONP.new(keyword)
         body out
         
         [Amazon,Hulu,Itunes,Netflix].each do |klass|

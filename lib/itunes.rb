@@ -22,9 +22,9 @@ class Itunes
                  :link => "#{result['trackViewUrl']}",
                  :desc => "#{result['longDescription']}"}
       if details[:price][1..-1].to_f < 0
-        details[:title] = "#{result['collectionName']}"
-        details[:price] = "$#{result['collectionPrice']}"
-        details[:link] = "#{result['collectionViewUrl']}"
+        next
+      elsif details[:title] =~ /recap|sneak peek/i
+        next
       elsif result['kind'] == "tv-episode"
         details[:series] = "#{result['collectionName']}"
         details[:episode] = "#{result['trackNumber']}"

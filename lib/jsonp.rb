@@ -1,102 +1,88 @@
-class JSONP
-  include EventMachine::Deferrable
+require 'sinatra'
+require File.dirname(__FILE__) + '/sinatra/output_utils.rb'
 
-  def initialize(keyword)
-    @counter = 0
-    @all_results = Array.new
-    @keyword = keyword
-    @clean_keyword = keyword.downcase.gsub("'","").gsub(/[^a-z0-9 ]/,' ').gsub(/(\d+)/) {|num| num.to_i.to_word }
-  end
+module Output
+  class JSONP
+    include EventMachine::Deferrable
+
+    def initialize(keyword)
+      @counter = 0
+      @all_results = Results.new
+      @keyword = keyword
+      @clean_keyword = clean(keyword)
+      @output = ""
+    end
   
-  def stream(callback,object)
-    object.each_pair do |service,results|
-      results.each do |result|
-        clean_title = result[:title].downcase.gsub("'","").gsub(/[^a-z0-9 ]/,' ').gsub(/(\d+)/) {|num| num.to_i.to_word }
-        clean_series = result[:series].downcase.gsub("'","").gsub(/[^a-z0-9 ]/,' ').gsub(/(\d+)/) {|num| num.to_i.to_word } if result[:series]
-        if clean_title.include?(@clean_keyword) || (result[:series] && clean_series.include?(@clean_keyword))
-          result[:service] = service
-          @all_results << result
+    def stream(callback,object)
+      object.each_pair do |service_type,results|
+        results.each do |result|
+          clean_title = clean(result[:title])
+          clean_series = clean(result[:series]) if result[:series]
+          if clean_title.include?(@clean_keyword) || (result[:series] && clean_series.include?(@clean_keyword))
+            result[:service] = service_type
+            @all_results << result
+          end
         end
       end
-    end
-    if @counter == 0
-      # json p plus hack to remove braces to enable single object
-      @block.call "#{callback}({#{object.to_json.to_s[1..-2]}"
-    else
-      @block.call ",#{object.to_json.to_s[1..-2]}"
-    end
-    @counter += 1
-    if @counter == 4
-      top = Hash.new
-      top[:amazon] = @all_results.select{|r| r[:service]=="Amazon"}.min{|a,b| a[:price] <=> b[:price]}
-      top[:hulu] = @all_results.select{|r| r[:service]=="Hulu"}.first
-      if @all_results.select{|r| r[:service]=="Itunes"}.collect{|r| r[:series]}
-        top[:itunes] = @all_results.select{|r| r[:service]=="Itunes"}.sort_by{|r| r[:episode]}.sort_by{|r| r[:series]}.last
+      if @counter == 0
+        # json p plus hack to remove braces to enable single object
+        #@block.call "#{callback}({#{object.to_json.to_s[1..-2]}"
+        @output << "#{callback}({#{object.to_json.to_s[1..-2]}"
       else
-        top[:itunes] = @all_results.select{|r| r[:service]=="Itunes"}.min{|a,b| a[:price] <=> b[:price]}
+        #@block.call ",#{object.to_json.to_s[1..-2]}"
+        @output << ",#{object.to_json.to_s[1..-2]}"
       end
-      top[:netflix] = @all_results.select{|r| r[:service]=="Netflix"}.first
+      @counter += 1
       
-      amazon = {:price => top[:amazon][:price], :link => top[:amazon][:link]} if top[:amazon]
-      hulu = {:link => top[:hulu][:link]} if top[:hulu]
-      itunes = {:price => top[:itunes][:price], :link => top[:itunes][:link]} if top[:itunes]
-      netflix = {:link => top[:netflix][:link], :instant => top[:netflix][:instant]} if top[:netflix]
-         
-      # Not a series
-      if top.delete_if{|k,v| v.nil?}.collect{|r| r[1][:title] if !r[1].nil?}.uniq{|s| s.downcase.gsub("'","").gsub(/[^a-z0-9 ]/,' ').gsub(/(\d+)/) {|num| num.to_i.to_word }}.length == 1        
-        if top[:amazon]
-          image = top[:amazon][:lg_image] 
-        elsif top[:itunes]
-          image = top[:itunes][:image]
-        elsif top[:netflix]
-          image = top[:netflix][:image]
-        elsif top[:hulu]
-          image = top[:hulu][:image]
-        else
-          image = ""
-        end
-      
-        if top[:itunes]
-          desc = top[:itunes][:desc]
-        elsif top[:netflix]
-          desc = top[:netflix][:desc]
-        elsif top[:hulu]
-          desc = top[:hulu][:desc]
-        else
-          desc = "Results unclear, see all results below"
-        end
-        
-        screen_results = {"TopResult" => {:desc => desc, 
-                                          :title => @keyword.titleize, 
-                                          :image => image, 
-                                          :amazon => amazon, 
-                                          :hulu => hulu, 
-                                          :itunes => itunes, 
-                                          :netflix => netflix}}
-      else # Add series data
-        amazon.merge!(:title => top[:amazon][:title],
-                      :series => /\d/.match(top[:amazon][:series])[0], 
-                      :episode => top[:amazon][:episode],
-                      :image => top[:amazon][:image]) if amazon
-        hulu.merge!(:title => top[:hulu][:title],
-                    :series => /\d/.match(top[:hulu][:series])[0], 
-                    :episode => top[:hulu][:episode],
-                    :image => top[:hulu][:image]) if hulu
-        itunes.merge!(:title => top[:itunes][:title],
-                      :series => /\d/.match(top[:itunes][:series])[0], 
-                      :episode => top[:itunes][:episode],
-                      :image => top[:itunes][:image]) if itunes
-        screen_results = {"MixedResults" => {:amazon => amazon, 
-                                             :hulu => hulu, 
-                                             :itunes => itunes, 
-                                             :netflix => netflix}}
-      end
-      @block.call ",#{screen_results.to_json.to_s[1..-1]})"
-      self.succeed
-    end
-  end
+      if @counter == 4
+        top_result = TopResult.new(@all_results,@clean_keyword)
 
-  def each(&block)
-    @block = block
+        # Add screen data
+        amazon = {:price => top_result[:amazon][:price], :link => top_result[:amazon][:link]} if top_result[:amazon]
+        hulu = {:link => top_result[:hulu][:link]} if top_result[:hulu]
+        itunes = {:price => top_result[:itunes][:price], :link => top_result[:itunes][:link]} if top_result[:itunes]
+        netflix = {:link => top_result[:netflix][:link], :instant => top_result[:netflix][:instant]} if top_result[:netflix]
+         
+        # Full series or Movie
+        if top_result.series_check
+          image = top_result.set_image
+          desc = top_result.set_desc
+          screen_results = {"TopResult" => {:desc => desc, 
+                                            :title => @keyword.titleize, 
+                                            :image => image, 
+                                            :amazon => amazon, 
+                                            :hulu => hulu, 
+                                            :itunes => itunes, 
+                                            :netflix => netflix}}
+        else # Mixed series results
+          # merge mixed results
+          amazon.merge!(:title => top_result[:amazon][:title],
+                        :series => /\d/.match(top_result[:amazon][:series])[0], 
+                        :episode => top_result[:amazon][:episode],
+                        :image => top_result[:amazon][:image]) if amazon
+          hulu.merge!(:title => top_result[:hulu][:title],
+                      :series => /\d/.match(top_result[:hulu][:series])[0], 
+                      :episode => top_result[:hulu][:episode],
+                      :image => top_result[:hulu][:image]) if hulu
+          itunes.merge!(:title => top_result[:itunes][:title],
+                        :image => top_result[:itunes][:image]) if itunes
+          itunes.merge!(:series => /\d/.match(top_result[:itunes][:series])[0],
+                        :episode => top_result[:itunes][:episode]) if top_result[:itunes] && top_result[:itunes][:series]
+         
+          screen_results = {"MixedResults" => {:amazon => amazon, 
+                                               :hulu => hulu, 
+                                               :itunes => itunes, 
+                                               :netflix => netflix}}
+        end
+        #@block.call ",#{screen_results.to_json.to_s[1..-1]})"
+        @output << ",#{screen_results.to_json.to_s[1..-1]})"
+        @block.call @output
+        self.succeed
+      end
+    end
+
+    def each(&block)
+      @block = block
+    end
   end
 end

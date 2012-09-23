@@ -16,12 +16,16 @@ class Netflix
     #file_contents = File.read(File.expand_path(File.dirname(__FILE__) + '/examples/prestige-netflix.json'))
     #results = eval(file_contents)
     results['d']['results'].each do |result|
-      titles << {:title => "#{result['Name']}",
+      details = {:title => "#{result['Name']}",
                  :type => "#{result['Type']}",
                  :image => "#{result['BoxArt']['MediumUrl']}",
                  :instant => "#{result['Instant']['Available']}",
                  :link => "#{result['Url']}",
                  :desc => "#{result['Synopsis']}"}
+      if details[:type] == "Series"
+        details[:series] = details[:title]
+      end
+      titles << details
     end
     titles
   end
