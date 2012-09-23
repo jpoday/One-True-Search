@@ -12,3 +12,5 @@ gem 'yajl-ruby'
 gem 'nokogiri'
 gem 'ruby-hmac'
 gem 'titleize'
+
+gem "pry"
