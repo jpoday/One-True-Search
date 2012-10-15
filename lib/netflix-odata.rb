@@ -1,4 +1,4 @@
-class Netflix
+class NetflixOData
   def initialize
     @endpoint = "http://odata.netflix.com/v1/Catalog/"
     @format = "json"
@@ -13,8 +13,6 @@ class Netflix
     
     titles = []
     results = Yajl::Parser.parse(netflix.response)
-    #file_contents = File.read(File.expand_path(File.dirname(__FILE__) + '/examples/prestige-netflix.json'))
-    #results = eval(file_contents)
     results['d']['results'].each do |result|
       details = {:title => "#{result['Name']}",
                  :type => "#{result['Type']}",

@@ -12,9 +12,6 @@ class Itunes
          
     titles = []
     results = Yajl::Parser.parse(multi.requests[:tv].response)['results'] | Yajl::Parser.parse(multi.requests[:movie].response)['results']
-    #file_contents = File.read(File.expand_path(File.dirname(__FILE__) + '/examples/prestige-itunes-movie.json'))
-    #results = eval(file_contents)
-
     results.each do |result|
       details = {:title => "#{result['trackName']}",
                  :price => "$#{result['trackPrice']}",

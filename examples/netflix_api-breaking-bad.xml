@@ -1,0 +1,521 @@
+<?xml version="1.0" standalone='yes'?>
+
+<catalog_titles>
+  <link href="http://api-public.netflix.com/catalog/titles/index" rel="http://schemas.netflix.com/catalog/titles/index" title="index"></link>
+  <link href="http://api-public.netflix.com/catalog/titles/autocomplete" rel="http://schemas.netflix.com/catalog/titles/autocomplete" title="autocomplete"></link>
+  <url_template>http://api-public.netflix.com/catalog/titles?{-join|&amp;|term|start_index|max_results}</url_template>
+  <number_of_results>1751</number_of_results>
+  <start_index>0</start_index>
+  <results_per_page>25</results_per_page>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70143836</id><title short="Breaking Bad" regular="Breaking Bad"></title>
+<box_art small="http://cdn-6.nflximg.com/us/boxshots/tiny/70143836.jpg" medium="http://cdn-6.nflximg.com/us/boxshots/small/70143836.jpg" large="http://cdn-6.nflximg.com/us/boxshots/large/70143836.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2008</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Crime Dramas" term="TV Crime Dramas"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Dramedy" term="TV Dramedy"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Dramas" term="TV Dramas"></category>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>4.5</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/episodes" rel="http://schemas.netflix.com/catalog/titles.programs" title="episodes"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Breaking_Bad/70143836" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/60021990</id><title short="The Bad News Bears in Breaking Training" regular="The Bad News Bears in Breaking Training"></title>
+<box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/60021990.jpg" medium="http://cdn-0.nflximg.com/us/boxshots/small/60021990.jpg" large="http://cdn-0.nflximg.com/us/boxshots/large/60021990.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1977</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="PG" term="PG"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Comedy" term="Comedy"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Sports Comedies" term="Sports Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Baseball" term="Baseball"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Triumph of the Underdogs" term="Triumph of the Underdogs"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Sports Stories" term="Sports Stories"></category>
+<runtime>5940</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.1</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60021990/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/The_Bad_News_Bears_in_Breaking_Training/60021990" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70084274</id><title short="Breaking Bread" regular="Breaking Bread"></title>
+<box_art small="http://cdn-4.nflximg.com/us/boxshots/tiny/70084274.jpg" medium="http://cdn-4.nflximg.com/us/boxshots/small/70084274.jpg" large="http://cdn-4.nflximg.com/us/boxshots/large/70084274.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70084274/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2000</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Documentary" term="Documentary"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Social &amp; Cultural Documentaries" term="Social &amp; Cultural Documentaries"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Food Stories" term="Food Stories"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Food &amp; Wine" term="Food &amp; Wine"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Indie Documentaries" term="Indie Documentaries"></category>
+<runtime>3240</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70084274/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70084274/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70084274/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70084274/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>1.9</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70084274/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Breaking_Bread/70084274" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70165483</id><title short="Break Ke Baad" regular="Break Ke Baad"></title>
+<box_art small="http://cdn-3.nflximg.com/us/boxshots/tiny/70165483.jpg" medium="http://cdn-3.nflximg.com/us/boxshots/small/70165483.jpg" large="http://cdn-3.nflximg.com/us/boxshots/large/70165483.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2010</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Comedy" term="Comedy"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Bollywood" term="Bollywood"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Romantic Comedies" term="Romantic Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign Romance" term="Foreign Romance"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign Comedies" term="Foreign Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Hindi Language" term="Hindi Language"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="India" term="India"></category>
+<runtime>8040</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.4</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70165483/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Break_Ke_Baad/70165483" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70021811</id><title short="Braid: Killing a Camera" regular="Braid: Killing a Camera"></title>
+<box_art small="http://cdn-1.nflximg.com/us/boxshots/tiny/70021811.jpg" medium="http://cdn-1.nflximg.com/us/boxshots/small/70021811.jpg" large="http://cdn-1.nflximg.com/us/boxshots/large/70021811.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70021811/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2001</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Music &amp; Musicals" term="Music &amp; Musicals"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Punk Rock" term="Punk Rock"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Rock &amp; Pop" term="Rock &amp; Pop"></category>
+<runtime>11040</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70021811/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70021811/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70021811/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70021811/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.0</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70021811/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Braid_Killing_a_Camera/70021811" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70220280</id><title short="Behaving Badly" regular="Behaving Badly"></title>
+<box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/70220280.jpg" medium="http://cdn-0.nflximg.com/us/boxshots/small/70220280.jpg" large="http://cdn-0.nflximg.com/us/boxshots/large/70220280.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1989</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Drama" term="Drama"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Miniseries" term="TV Miniseries"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Dramas Based on Contemporary Literature" term="Dramas Based on Contemporary Literature"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="United Kingdom" term="United Kingdom"></category>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.3</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/episodes" rel="http://schemas.netflix.com/catalog/titles.programs" title="episodes"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70220280/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Behaving_Badly/70220280" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70022066</id><title short="Watermelon's Baked and Baking" regular="Watermelon's Baked and Baking"></title>
+<box_art small="http://cdn-6.nflximg.com/us/boxshots/tiny/70022066.jpg" medium="http://cdn-6.nflximg.com/us/boxshots/small/70022066.jpg" large="http://cdn-6.nflximg.com/us/boxshots/large/70022066.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70022066/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2003</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Special Interest" term="Special Interest"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Food &amp; Wine" term="Food &amp; Wine"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Cooking Instruction" term="Cooking Instruction"></category>
+<runtime>3600</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70022066/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70022066/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70022066/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70022066/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>2.7</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70022066/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Watermelon_s_Baked_and_Baking/70022066" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70157484</id><title short="Breaking Bonaduce" regular="Breaking Bonaduce"></title>
+<box_art small="http://cdn-4.nflximg.com/us/boxshots/tiny/70157484.jpg" medium="http://cdn-4.nflximg.com/us/boxshots/small/70157484.jpg" large="http://cdn-4.nflximg.com/us/boxshots/large/70157484.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157484/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2005</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Reality Programming" term="TV Reality Programming"></category>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157484/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157484/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<average_rating>2.7</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157484/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157484/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Breaking_Bonaduce/70157484" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70154582</id><title short="Bread Crumbs" regular="Bread Crumbs"></title>
+<box_art small="http://cdn-2.nflximg.com/us/boxshots/tiny/70154582.jpg" medium="http://cdn-2.nflximg.com/us/boxshots/small/70154582.jpg" large="http://cdn-2.nflximg.com/us/boxshots/large/70154582.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2011</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="R" term="R"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Horror" term="Horror"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="B-Movie Horror" term="B-Movie Horror"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Slashers and Serial Killers" term="Slashers and Serial Killers"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Supernatural Horror" term="Supernatural Horror"></category>
+<runtime>5280</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>2.6</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70154582/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Bread_Crumbs/70154582" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70053930</id><title short="Bad Brains: Live at CBGB 1982" regular="Bad Brains: Live at CBGB 1982"></title>
+<box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/70053930.jpg" medium="http://cdn-0.nflximg.com/us/boxshots/small/70053930.jpg" large="http://cdn-0.nflximg.com/us/boxshots/large/70053930.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70053930/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1982</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Music &amp; Musicals" term="Music &amp; Musicals"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Rock &amp; Pop" term="Rock &amp; Pop"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Punk Rock" term="Punk Rock"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Hard Rock &amp; Heavy Metal" term="Hard Rock &amp; Heavy Metal"></category>
+<runtime>3600</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70053930/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70053930/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70053930/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70053930/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.5</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70053930/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Bad_Brains_Live_at_CBGB_1982/70053930" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/60020983</id><title short="Bread and Tulips" regular="Bread and Tulips"></title>
+<box_art small="http://cdn-3.nflximg.com/us/boxshots/tiny/60020983.jpg" medium="http://cdn-3.nflximg.com/us/boxshots/small/60020983.jpg" large="http://cdn-3.nflximg.com/us/boxshots/large/60020983.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2000</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="PG-13" term="PG-13"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign Romance" term="Foreign Romance"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign Comedies" term="Foreign Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Italy" term="Italy"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Italian Language" term="Italian Language"></category>
+<runtime>6960</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.7</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020983/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.luce.it/film/paneetulipani/" rel="http://schemas.netflix.com/catalog/titles/official_url" title="official webpage"></link>
+<link href="http://www.netflix.com/Movie/Bread_and_Tulips/60020983" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70157344</id><title short="Men Behaving Badly" regular="Men Behaving Badly"></title>
+<box_art small="http://cdn-4.nflximg.com/us/boxshots/tiny/70157344.jpg" medium="http://cdn-4.nflximg.com/us/boxshots/small/70157344.jpg" large="http://cdn-4.nflximg.com/us/boxshots/large/70157344.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157344/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1992</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="British TV Comedies" term="British TV Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Sitcoms" term="TV Sitcoms"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="British TV" term="British TV"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Classics" term="TV Classics"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Classic TV Comedies" term="Classic TV Comedies"></category>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157344/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157344/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<average_rating>2.8</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70157344/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Men_Behaving_Badly/70157344" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70136974</id><title short="Ancients Behaving Badly" regular="Ancients Behaving Badly"></title>
+<box_art small="http://cdn-4.nflximg.com/us/boxshots/tiny/70136974.jpg" medium="http://cdn-4.nflximg.com/us/boxshots/small/70136974.jpg" large="http://cdn-4.nflximg.com/us/boxshots/large/70136974.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2009</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Documentaries" term="TV Documentaries"></category>
+<runtime>22560</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>4.2</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70136974/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Ancients_Behaving_Badly/70136974" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70061340</id><title short="Girls Behaving Badly" regular="Girls Behaving Badly"></title>
+<box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/70061340.jpg" medium="http://cdn-0.nflximg.com/us/boxshots/small/70061340.jpg" large="http://cdn-0.nflximg.com/us/boxshots/large/70061340.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2002</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Reality Programming" term="TV Reality Programming"></category>
+<runtime>16680</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>2.8</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70061340/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Girls_Behaving_Badly_Vol._1/70061340" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70072103</id><title short="Girls Behaving Badly: Vol. 2" regular="Girls Behaving Badly: Vol. 2"></title>
+<box_art small="http://cdn-3.nflximg.com/us/boxshots/tiny/70072103.jpg" medium="http://cdn-3.nflximg.com/us/boxshots/small/70072103.jpg" large="http://cdn-3.nflximg.com/us/boxshots/large/70072103.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2003</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Reality Programming" term="TV Reality Programming"></category>
+<runtime>22080</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.0</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70072103/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Girls_Behaving_Badly_Vol._2/70072103" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70202875</id><title short="Men Behaving Badly (U.S.)" regular="Men Behaving Badly (U.S.)"></title>
+<box_art small="http://cdn-5.nflximg.com/us/boxshots/tiny/70202875.jpg" medium="http://cdn-5.nflximg.com/us/boxshots/small/70202875.jpg" large="http://cdn-5.nflximg.com/us/boxshots/large/70202875.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1996</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Comedies" term="TV Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Sitcoms" term="TV Sitcoms"></category>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.0</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70202875/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Men_Behaving_Badly_U.S./70202875" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70227158</id><title short="Bad Ass" regular="Bad Ass"></title>
+<box_art small="http://cdn-8.nflximg.com/us/boxshots/tiny/70227158.jpg" medium="http://cdn-8.nflximg.com/us/boxshots/small/70227158.jpg" large="http://cdn-8.nflximg.com/us/boxshots/large/70227158.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70227158/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2012</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="R" term="R"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Action &amp; Adventure" term="Action &amp; Adventure"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Crime Action" term="Crime Action"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Action Thrillers" term="Action Thrillers"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Action Comedies" term="Action Comedies"></category>
+<runtime>5400</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70227158/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70227158/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70227158/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<average_rating>3.7</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70227158/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Bad_Ass/70227158" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70075032</id><title short="Brand Upon the Brain" regular="Brand Upon the Brain"></title>
+<box_art small="http://cdn-2.nflximg.com/us/boxshots/tiny/70075032.jpg" medium="http://cdn-2.nflximg.com/us/boxshots/small/70075032.jpg" large="http://cdn-2.nflximg.com/us/boxshots/large/70075032.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2006</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Independent" term="Independent"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Experimental" term="Experimental"></category>
+<runtime>5940</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.0</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70075032/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Brand_Upon_the_Brain/70075032" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70052989</id><title short="BDC: Breaking Foundations" regular="Broadway Dance Center: Breaking Foundations"></title>
+<box_art small="http://cdn-9.nflximg.com/us/boxshots/tiny/70052989.jpg" medium="http://cdn-9.nflximg.com/us/boxshots/small/70052989.jpg" large="http://cdn-9.nflximg.com/us/boxshots/large/70052989.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70052989/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2006</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Special Interest" term="Special Interest"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Dance" term="Dance"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Hip-Hop &amp; Contemporary Dance" term="Hip-Hop &amp; Contemporary Dance"></category>
+<runtime>3600</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70052989/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70052989/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70052989/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70052989/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>2.8</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70052989/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Broadway_Dance_Center_Breaking_Foundations/70052989" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70140425</id><title short="Prison Break" regular="Prison Break"></title>
+<box_art small="http://cdn-5.nflximg.com/us/boxshots/tiny/70140425.jpg" medium="http://cdn-5.nflximg.com/us/boxshots/small/70140425.jpg" large="http://cdn-5.nflximg.com/us/boxshots/large/70140425.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2005</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="TV-14" term="TV-14"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Action &amp; Adventure" term="TV Action &amp; Adventure"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Crime Dramas" term="TV Crime Dramas"></category>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>4.2</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/episodes" rel="http://schemas.netflix.com/catalog/titles.programs" title="episodes"></link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70140425/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Prison_Break/70140425" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70064385</id><title short="Our Daily Bread" regular="Our Daily Bread"></title>
+<box_art small="http://cdn-5.nflximg.com/us/boxshots/tiny/70064385.jpg" medium="http://cdn-5.nflximg.com/us/boxshots/small/70064385.jpg" large="http://cdn-5.nflximg.com/us/boxshots/large/70064385.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70064385/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2005</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Documentary" term="Documentary"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Social &amp; Cultural Documentaries" term="Social &amp; Cultural Documentaries"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Food Stories" term="Food Stories"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Food &amp; Wine" term="Food &amp; Wine"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign Documentaries" term="Foreign Documentaries"></category>
+<runtime>5520</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70064385/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70064385/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70064385/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70064385/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.3</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70064385/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.ourdailybread.at/jart/projects/utb/website.jart?rel=en&amp;content-id=1130864824947" rel="http://schemas.netflix.com/catalog/titles/official_url" title="official webpage"></link>
+<link href="http://www.netflix.com/Movie/Our_Daily_Bread/70064385" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/60029666</id><title short="Breakin'" regular="Breakin'"></title>
+<box_art small="http://cdn-6.nflximg.com/us/boxshots/tiny/60029666.jpg" medium="http://cdn-6.nflximg.com/us/boxshots/small/60029666.jpg" large="http://cdn-6.nflximg.com/us/boxshots/large/60029666.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1984</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="PG" term="PG"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Drama" term="Drama"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Showbiz Dramas" term="Showbiz Dramas"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Contemporary Movie Musicals" term="Contemporary Movie Musicals"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Hip-Hop &amp; Contemporary Dance" term="Hip-Hop &amp; Contemporary Dance"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Rap &amp; Hip-Hop" term="Rap &amp; Hip-Hop"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Dance" term="Dance"></category>
+<runtime>5160</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.2</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60029666/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Breakin/60029666" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70029660</id><title short="Bread and Chocolate" regular="Bread and Chocolate"></title>
+<box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/70029660.jpg" medium="http://cdn-0.nflximg.com/us/boxshots/small/70029660.jpg" large="http://cdn-0.nflximg.com/us/boxshots/large/70029660.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>1974</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Foreign Comedies" term="Foreign Comedies"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Italian Language" term="Italian Language"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Italy" term="Italy"></category>
+<runtime>6600</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.3</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70029660/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Bread_and_Chocolate/70029660" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/60020770</id><title short="Bread and Roses" regular="Bread and Roses"></title>
+<box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/60020770.jpg" medium="http://cdn-0.nflximg.com/us/boxshots/small/60020770.jpg" large="http://cdn-0.nflximg.com/us/boxshots/large/60020770.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2000</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="R" term="R"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Drama" term="Drama"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Indie Dramas" term="Indie Dramas"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Social Issue Dramas" term="Social Issue Dramas"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Political Dramas" term="Political Dramas"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="United Kingdom" term="United Kingdom"></category>
+<runtime>6600</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>3.3</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/60020770/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.breadandrosesthemovie.com/" rel="http://schemas.netflix.com/catalog/titles/official_url" title="official webpage"></link>
+<link href="http://www.netflix.com/Movie/Bread_and_Roses/60020770" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+  <catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/movies/70039508</id><title short="Bald" regular="Bald"></title>
+<box_art small="http://cdn-8.nflximg.com/us/boxshots/tiny/70039508.jpg" medium="http://cdn-8.nflximg.com/us/boxshots/small/70039508.jpg" large="http://cdn-8.nflximg.com/us/boxshots/large/70039508.jpg"></box_art>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+<release_year>2008</release_year>
+<category scheme="http://api-public.netflix.com/categories/mpaa_ratings" label="R" term="R"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Comedy" term="Comedy"></category>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Late Night Comedies" term="Late Night Comedies"></category>
+<runtime>4800</runtime>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/directors" rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+<average_rating>2.4</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/movies/70039508/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+<link href="http://www.netflix.com/Movie/Bald/70039508" rel="alternate" title="web page"></link>
+
+  </catalog_title>
+</catalog_titles>

@@ -10,10 +10,7 @@ class Hulu
     return nil if hulu.response_header.status != 200
       
     titles = []
-    results = Nokogiri::XML(hulu.response)
-    #file_contents = File.read(File.expand_path(File.dirname(__FILE__) + '/examples/prestige-hulu.xml'))
-    #results = Nokogiri::XML(file_contents)
-    
+    results = Nokogiri::XML(hulu.response)    
     results.xpath("//video").each do |result|
       next if @ignore_media.include?result.css('video-type').inner_html
       details = {:title => "#{result.css('title').inner_html}", 

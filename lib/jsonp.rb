@@ -36,13 +36,14 @@ module Output
       
       if @counter == 4
         top_result = TopResult.new(@all_results,@clean_keyword)
-
+        
         # Add screen data
         amazon = {:price => top_result[:amazon][:price], :link => top_result[:amazon][:link]} if top_result[:amazon]
         hulu = {:link => top_result[:hulu][:link]} if top_result[:hulu]
         itunes = {:price => top_result[:itunes][:price], :link => top_result[:itunes][:link]} if top_result[:itunes]
-        netflix = {:link => top_result[:netflix][:link], :instant => top_result[:netflix][:instant]} if top_result[:netflix]
-         
+        netflix = {:link => top_result[:netflix][:link], :instant => top_result[:netflix][:instant], 
+                   :dvd => top_result[:netflix][:DVD], :bluray => top_result[:netflix][:"Blu-ray"]} if top_result[:netflix]
+
         # Full series or Movie
         if top_result.series_check
           image = top_result.set_image
@@ -68,7 +69,9 @@ module Output
                         :image => top_result[:itunes][:image]) if itunes
           itunes.merge!(:series => /\d/.match(top_result[:itunes][:series])[0],
                         :episode => top_result[:itunes][:episode]) if top_result[:itunes] && top_result[:itunes][:series]
-         
+          netflix.merge!(:title => top_result[:netflix][:title],
+                         :image => top_result[:netflix][:image]) if netflix
+                         
           screen_results = {"MixedResults" => {:amazon => amazon, 
                                                :hulu => hulu, 
                                                :itunes => itunes, 

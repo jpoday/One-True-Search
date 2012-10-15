@@ -85,6 +85,8 @@ module Output
       def uniqueness(key)
         if collect_clean_keys(key).length == 1
           return true
+        else
+          return false
         end
       end
       

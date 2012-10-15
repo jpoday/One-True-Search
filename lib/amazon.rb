@@ -27,8 +27,6 @@ class Amazon
     
     titles = Array.new
     results = Nokogiri::XML(amazon.response)
-    #file_contents = File.read(File.expand_path(File.dirname(__FILE__) + '/examples/prestige-amazon_batch_response_example.xml'))
-    #results = Nokogiri::XML(file_contents)
     results.css("ItemLookupResponse/Items/Item").each do |result|
       if result.css('FormattedPrice').empty? || result.css('FormattedPrice').first.inner_html == "$0.00"
         price = "FREE"

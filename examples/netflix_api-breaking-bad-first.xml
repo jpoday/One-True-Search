@@ -1,0 +1,33 @@
+<catalog_title>
+    <id>http://api-public.netflix.com/catalog/titles/series/70143836</id><title short="Breaking Bad" regular="Breaking Bad"/>
+<box_art small="http://cdn-6.nflximg.com/us/boxshots/tiny/70143836.jpg" medium="http://cdn-6.nflximg.com/us/boxshots/small/70143836.jpg" large="http://cdn-6.nflximg.com/us/boxshots/large/70143836.jpg"/>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/synopsis" rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"><synopsis><![CDATA[Emmy winner <a href="http://www.netflix.com/RoleDisplay/Bryan_Cranston/20236">Bryan Cranston</a> stars as Walter White, a high school science teacher who learns that he has terminal lung cancer and teams with a former student to manufacture and sell high-quality crystal meth to secure his family's future.]]></synopsis></link>
+<release_year>2008</release_year>
+<category scheme="http://api-public.netflix.com/categories/tv_ratings" label="NR" term="NR"/>
+<category scheme="http://api-public.netflix.com/categories/genres" label="Television" term="Television"/>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Crime Dramas" term="TV Crime Dramas"/>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Dramedy" term="TV Dramedy"/>
+<category scheme="http://api-public.netflix.com/categories/genres" label="TV Dramas" term="TV Dramas"/>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/format_availability" rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats">
+	<delivery_formats>
+		<availability available_from="1268697600">
+			<category scheme="http://api-public.netflix.com/categories/title_formats" label="Blu-ray" term="Blu-ray"/>
+		</availability>
+		<availability available_from="1314860400" available_until="4102444800">
+			<category scheme="http://api-public.netflix.com/categories/title_formats" label="instant" term="instant"/>
+		</availability>
+		<availability available_from="1235433600">
+			<category scheme="http://api-public.netflix.com/categories/title_formats" label="DVD" term="DVD"/>
+		</availability>
+	</delivery_formats>
+</link>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/screen_formats" rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"/>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/cast" rel="http://schemas.netflix.com/catalog/people.cast" title="cast"/>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/languages_and_audio" rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"/>
+<average_rating>4.5</average_rating>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/discs" rel="http://schemas.netflix.com/catalog/titles.discs" title="discs"/>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/episodes" rel="http://schemas.netflix.com/catalog/titles.programs" title="episodes"/>
+<link href="http://api-public.netflix.com/catalog/titles/series/70143836/similars" rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"/>
+<link href="http://www.netflix.com/Movie/Breaking_Bad/70143836" rel="alternate" title="web page"/>
+
+  </catalog_title>
