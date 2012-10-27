@@ -24,9 +24,10 @@ require 'pry'
 class Search < Sinatra::Base
   register Sinatra::Async
   
-  aget '/search/:keyword' do |keyword|
+  aget '/search/' do
     Fiber.new do
       EM.synchrony do
+        keyword = params.delete('search_query')
         callback = params.delete('callback') # jsonp
         out = Output::JSONP.new(keyword)
         body out
