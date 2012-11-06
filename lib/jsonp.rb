@@ -57,14 +57,15 @@ module Output
                                             :netflix => netflix}}
         else # Mixed series results
           # merge mixed results
+          binding.pry
           amazon.merge!(:title => top_result[:amazon][:title],
-                        :series => /\d/.match(top_result[:amazon][:series])[0], 
-                        :episode => top_result[:amazon][:episode],
                         :image => top_result[:amazon][:image]) if amazon
+          amazon.merge!(:series => /\d/.match(top_result[:amazon][:series])[0], 
+                        :episode => top_result[:amazon][:episode]) if top_result[:amazon] && top_result[:amazon][:series]
           hulu.merge!(:title => top_result[:hulu][:title],
-                      :series => /\d/.match(top_result[:hulu][:series])[0], 
-                      :episode => top_result[:hulu][:episode],
                       :image => top_result[:hulu][:image]) if hulu
+          hulu.merge!(:series => /\d/.match(top_result[:hulu][:series])[0], 
+                      :episode => top_result[:hulu][:episode]) if top_result[:hulu] && top_result[:hulu][:series]
           itunes.merge!(:title => top_result[:itunes][:title],
                         :image => top_result[:itunes][:image]) if itunes
           itunes.merge!(:series => /\d/.match(top_result[:itunes][:series])[0],
