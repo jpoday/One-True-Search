@@ -57,7 +57,6 @@ module Output
                                             :netflix => netflix}}
         else # Mixed series results
           # merge mixed results
-          binding.pry
           amazon.merge!(:title => top_result[:amazon][:title],
                         :image => top_result[:amazon][:image]) if amazon
           amazon.merge!(:series => /\d/.match(top_result[:amazon][:series])[0], 
