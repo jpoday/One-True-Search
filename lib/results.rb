@@ -97,7 +97,7 @@ module Output
       def netflix_left_out
         @top = @top.reject{|s| s == :netflix}
         series = collect_clean_keys("series")
-        if series.length == 1
+        if series.select{|i| i.nil?}.length == 0 && series.length == 1
           return series[0].include? self[:netflix][:series]
         end
       end
